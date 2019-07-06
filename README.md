@@ -1483,3 +1483,4 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [basho/luke](https://github.com/basho/luke) - Dataflow / MapReduce coordination framework.
 * [shino/kai](https://github.com/shino/kai) - Kai is a distributed key-value datastore mainly inspired by Amazon's Dynamo. (fork from sourceforge)
 * [benmmurphy/ecnty](https://github.com/benmmurphy/ecnty) - Partitioned Counter Based on Riak Core
+* [ricjcosme/bloberl](https://github.com/ricjcosme/bloberl) - Simple log shipping to cloud object storage (S3, GCS and Azure Blob)
