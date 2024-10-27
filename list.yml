@@ -1,0 +1,2710 @@
+# For each item I want you to add a category field to the item.
+- description:
+    The most scalable open-source MQTT broker for IoT, IIoT, and connected
+    vehicles
+  repo_url: https://github.com/emqx/emqx
+  category: Message Queue
+- description: Erlang/OTP
+  repo_url: https://github.com/erlang/otp
+  category: Language
+- description: Small, fast, modern HTTP server for Erlang/OTP.
+  repo_url: https://github.com/ninenines/cowboy
+  category: Web Server
+- description:
+    Seamless multi-master syncing database with an intuitive HTTP/JSON
+    API, designed for reliability
+  repo_url: https://github.com/apache/couchdb
+  category: Database
+- description:
+    Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP,
+    MQTT, SIP Server)
+  repo_url: https://github.com/processone/ejabberd
+  category: Message Queue
+- description:
+    A distributed MQTT message broker based on Erlang/OTP. Built for high
+    quality & Industrial use cases. The VerneMQ mission is active & the project maintained.
+    Thank you for your support!
+  repo_url: https://github.com/vernemq/vernemq
+  category: Message Queue
+- description:
+    A description of the Erlang Runtime System ERTS and the virtual Machine
+    BEAM.
+  repo_url: https://github.com/happi/theBeamBook
+  category: Language
+- description:
+    Tsung is a high-performance benchmark framework for various protocols
+    including HTTP, XMPP, LDAP, etc.
+  repo_url: https://github.com/processone/tsung
+  category: Benchmark
+- description: Lisp Flavoured Erlang (LFE)
+  repo_url: https://github.com/lfe/lfe
+  category: Language
+- description: MochiWeb is an Erlang library for building lightweight HTTP servers.
+  repo_url: https://github.com/mochi/mochiweb
+  category: Web Server
+- description: Erlang web MVC, now featuring Comet
+  repo_url: https://github.com/ChicagoBoss/ChicagoBoss
+  category: Web Server
+- description:
+    Erlang build tool that makes it easy to compile and test Erlang applications
+    and releases.
+  repo_url: https://github.com/erlang/rebar3
+  category: Build Tool
+- description:
+    MongooseIM is Erlang Solutions' robust, scalable and efficient XMPP
+    server, aimed at large installations. Specifically designed for enterprise purposes,
+    it is fault-tolerant and can utilise the resources of multiple clustered machines.
+  repo_url: https://github.com/esl/MongooseIM
+  category: Message Queue
+- description: Clojure for the Erlang VM (unofficial)
+  repo_url: https://github.com/clojerl/clojerl
+  category: Language
+- description: A hunky Erlang worker pool factory
+  repo_url: https://github.com/devinus/poolboy
+  category: Worker Pool
+- description: The LeoFS Storage System
+  repo_url: https://github.com/leo-project/leofs
+  category: Storage
+- description: Functional programming inspired by ML for the Erlang VM
+  repo_url: https://github.com/alpaca-lang/alpaca
+  category: Language
+- description: Visualize Erlang/Elixir Nodes On The Command Line
+  repo_url: https://github.com/zhongwencool/observer_cli
+  category: Debug
+- description: Collection of functions and scripts to debug Erlang in production.
+  repo_url: https://github.com/ferd/recon
+  category: Debug
+- description: simple HTTP client in Erlang
+  repo_url: https://github.com/benoitc/hackney
+  category: HTTP Client
+- description: Yaws webserver
+  repo_url: https://github.com/erlyaws/yaws
+  category: Web Server
+- description:
+    "RabbitMQ\u7CFB\u7EDF3.5.3\u7248\u672C\u4E2D\u6587\u5B8C\u5168\u6CE8\
+    \u91CA(\u540C\u65F6\u5B9E\u73B0\u4E86RabbitMQ\u7CFB\u7EDF\u548C\u63D2\u4EF6\u6E90\
+    \u4EE3\u7801\u7F16\u8BD1\uFF0C\u6839\u636E\u914D\u7F6E\u6587\u4EF6\u521B\u5EFA\
+    RabbitMQ\u96C6\u7FA4\uFF0C\u521B\u5EFA\u8FDE\u63A5RabbitMQ\u7CFB\u7EDF\u7684\u5BA2\
+    \u6237\u7AEF\u8282\u70B9\u7B49\u76F8\u5173\u529F\u80FD\uFF0C\u65B9\u4FBF\u6E90\
+    \u4EE3\u7801\u7684\u9605\u8BFB)"
+  repo_url: https://github.com/sky-big/RabbitMQ
+  category: Message Queue
+- description: A logging framework for Erlang/OTP
+  repo_url: https://github.com/erlang-lager/lager
+  category: Logging
+- description: A custom and configurable Erlang logger formatter which prints JSON
+  repo_url: https://github.com/expelledboy/erlang_json_logger
+  category: Logging
+- description: Extended process registry for Erlang
+  repo_url: https://github.com/uwiger/gproc
+  category: Process Registry
+- description:
+    "\xE6ternity blockchain - scalable blockchain for the people - smart\
+    \ contracts, state channels, names, tokens"
+  repo_url: https://github.com/aeternity/aeternity
+  category: Blockchain
+- description: Lua in Erlang
+  repo_url: https://github.com/rvirding/luerl
+  category: Language
+- description: Haskell-style functional programming language running on Erlang VM.
+  repo_url: https://github.com/hamler-lang/hamler
+  category: Language
+- description: Compact server for private LoRaWAN networks
+  repo_url: https://github.com/gotthardp/lorawan-server
+  category: LoRaWAN
+- description: Nitrogen Web Framework for Erlang (now with websockets!)
+  repo_url: https://github.com/nitrogen/nitrogen
+  category: Web Framework
+- description:
+    Deprecated Erlang build tool that makes it easy to compile and test
+    Erlang applications, port drivers and releases. We encourage you to move to https://github.com/erlang/rebar3.
+  repo_url: https://github.com/rebar/rebar
+  category: Build Tool
+- description: High-performance, high-scalability distributed computing for the BEAM.
+  repo_url: https://github.com/lasp-lang/partisan
+  category: Distributed Computing
+- description: HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.
+  repo_url: https://github.com/ninenines/gun
+  category: HTTP Client
+- description: Prototype implementation of Lasp in Erlang.
+  repo_url: https://github.com/lasp-lang/lasp
+  category: Distributed Computing
+- description: "PropEr: a QuickCheck-inspired property-based testing tool for Erlang"
+  repo_url: https://github.com/proper-testing/proper
+  category: Testing
+- description:
+    A planet scale, highly available, transactional database built on CRDT
+    technology
+  repo_url: https://github.com/AntidoteDB/antidote
+  category: Database
+- description: A mocking library for Erlang
+  repo_url: https://github.com/eproxus/meck
+  category: Testing
+- description:
+    A Raft implementation for Erlang and Elixir that strives to be efficient
+    and make it easier to use multiple Raft clusters in a single system.
+  repo_url: https://github.com/rabbitmq/ra
+  category: Distributed Computing
+- description: Zotonic - The Erlang Web Framework & CMS
+  repo_url: https://github.com/zotonic/zotonic
+  category: Web Framework
+- description:
+    Ruby-like hybrid OOP/functional programming language for BEAM, the
+    Erlang VM
+  repo_url: https://github.com/tarcieri/reia
+  category: Language
+- description: On-the-fly recompiling and reloading in Erlang. Code without friction.
+  repo_url: https://github.com/rustyio/sync
+  category: Language
+- description: Sane, simple release creation for Erlang
+  repo_url: https://github.com/erlware/relx
+  category: Build Tool
+- description:
+    an erlang application for consuming, producing and manipulating json.
+    inspired by yajl
+  repo_url: https://github.com/talentdeficit/jsx
+  category: JSON
+- description: The extensible Erlang SMTP client and server library.
+  repo_url: https://github.com/gen-smtp/gen_smtp
+  category: SMTP
+- description: Simple, robust and performant Erlang web server
+  repo_url: https://github.com/knutin/elli
+  category: Web Server
+- description: Apache Kafka client library for Erlang/Elixir
+  repo_url: https://github.com/kafka4beam/brod
+  category: Kafka
+- description: AWS APIs library for Erlang (Amazon EC2, S3, SQS, DDB,  ELB and etc)
+  repo_url: https://github.com/erlcloud/erlcloud
+  category: AWS
+- description:
+    "Misultin (pronounced mee-sool-t\xE9en) is an Erlang library for building\
+    \ fast lightweight HTTP(S) servers, which also supports websockets."
+  repo_url: https://github.com/ostinelli/misultin
+  category: Web Server
+- description: Erlang Redis client
+  repo_url: https://github.com/wooga/eredis
+  category: Redis
+- description: ErlPort - connect Erlang to other languages
+  repo_url: https://github.com/hdima/erlport
+  category: Language
+- description:
+    A scalable global Process Registry and Process Group manager for Erlang
+    and Elixir.
+  repo_url: https://github.com/ostinelli/syn
+  category: Process Registry
+- description: The Erlang Language Server
+  repo_url: https://github.com/erlang-ls/erlang_ls
+  category: Language Server
+- description: Inaka's Erlang Coding Guidelines
+  repo_url: https://github.com/inaka/erlang_guidelines
+  category: Language
+- description: A Gradual type system for Erlang
+  repo_url: https://github.com/josefs/Gradualizer
+  category: Language
+- description: Expose Erlang Events and Metrics
+  repo_url: https://github.com/boundary/folsom
+  category: Metrics
+- description: A decentralized, k-ordered id generation service in Erlang
+  repo_url: https://github.com/boundary/flake
+  category: ID Generation
+- description: Wings3D is an advanced sub-division 3D modeller.
+  repo_url: https://github.com/dgud/wings
+  category: 3D Modeller
+- description: A Google Protobuf implementation for Erlang
+  repo_url: https://github.com/tomas-abrahamsson/gpb
+  category: Protocol Buffers
+- description:
+    Tool for developers working with systems running on the Erlang VM (BEAM).
+    It helps with performance analysis.
+  repo_url: https://github.com/erlanglab/erlangpl
+  category: Performance Analysis
+- description: An Erlang implementation of RAFT from WhatsApp
+  repo_url: https://github.com/WhatsApp/waraft
+  category: Distributed Computing
+- description: High performance Erlang MTProto proxy that powers https://t.me/socksy_bot
+  repo_url: https://github.com/seriyps/mtproto_proxy
+  category: Proxy
+- description: Basic measurement objects and probe behavior
+  repo_url: https://github.com/Feuerlabs/exometer
+  category: Metrics
+- description: Erlang HTTP client
+  repo_url: https://github.com/cmullaparthi/ibrowse
+  category: HTTP Client
+- description: Lightweight MQTT benchmark tool written in Erlang
+  repo_url: https://github.com/emqx/emqtt-bench
+  category: Benchmark
+- description: Django templates for Erlang
+  repo_url: https://github.com/erlydtl/erlydtl
+  category: Template
+- description: A Circuit Breaker for Erlang
+  repo_url: https://github.com/jlouis/fuse
+  category: Circuit Breaker
+- description: Hacks to add shell history to Erlang's shell
+  repo_url: https://github.com/ferd/erlang-history
+  category: Debug
+- description: An Erlang implementation of Redis
+  repo_url: https://github.com/cbd/edis
+  category: Redis
+- description: Ernie is an Erlang/Ruby BERT-RPC Server.
+  repo_url: https://github.com/mojombo/ernie
+  category: Protocol
+- description: A Modern Lisp for the Erlang VM
+  repo_url: https://github.com/joxa/joxa
+  category: Language
+- description: "SS7 MAP (pen-)testing toolkit. DISCONTINUED REPO, please use: https://github.com/0xc0decafe/ss7MAPer/"
+  repo_url: https://github.com/ernw/ss7MAPer
+  category: Testing
+- description:
+    The official "Erlang and OTP in Action" source code - see the README
+    below for more details
+  repo_url: https://github.com/erlware/Erlang-and-OTP-in-Action-Source
+  category: Language
+- description: Erlang performance and debugging tools
+  repo_url: https://github.com/massemanet/eper
+  category: Performance Analysis
+- description: Erlang Style Reviewer
+  repo_url: https://github.com/inaka/elvis
+  category: Language
+- description: Erlang PostgreSQL client library.
+  repo_url: https://github.com/epgsql/epgsql
+  category: PostgreSQL
+- description: An automated code formatter for Erlang
+  repo_url: https://github.com/WhatsApp/erlfmt
+  category: Language
+- description: Erlang MQTT 5.0 Client
+  repo_url: https://github.com/emqx/emqtt
+  category: MQTT
+- description: DNS server, in Erlang.
+  repo_url: https://github.com/dnsimple/erldns
+  category: DNS
+- description:
+    An implementation of Google's Protocol Buffers for Erlang, based on
+    ngerakines/erlang_protobuffs.
+  repo_url: https://github.com/basho/erlang_protobuffs
+  category: Protocol Buffers
+- description:
+    Phoebus is a distributed framework for large scale graph processing
+    written in Erlang.
+  repo_url: https://github.com/xslogic/phoebus
+  category: Distributed Computing
+- description:
+    "2010\u5E74\u5199\u7684\u4E00\u4E2Aerlang\u6E38\u620F\u670D\u52A1\u7AEF\
+    demo"
+  repo_url: https://github.com/qingliangcn/mgee
+  category: Game
+- description: Prolog interpreter in and for Erlang
+  repo_url: https://github.com/rvirding/erlog
+  category: Language
+- description: Apple Push Notification Server for Erlang
+  repo_url: https://github.com/inaka/apns4erl
+  category: Push Notification
+- description: Open source dynamo clone written in Erlang.
+  repo_url: https://github.com/moonpolysoft/dynomite
+  category: Database
+- description: "MySQL/OTP \u2013 MySQL and MariaDB client for Erlang/OTP"
+  repo_url: https://github.com/mysql-otp/mysql-otp
+  category: Database
+- description: Erlang SIP application server
+  repo_url: https://github.com/NetComposer/nksip
+  category: SIP
+- description:
+    A pure Erlang Key/Value store - based on a LSM-tree, optimised for
+    HEAD requests
+  repo_url: https://github.com/martinsumner/leveled
+  category: Database
+- description: Convergent replicated datatypes in Erlang
+  repo_url: https://github.com/basho/riak_dt
+  category: Database
+- description:
+    Khepri is a tree-like replicated on-disk database library for Erlang
+    and Elixir.
+  repo_url: https://github.com/rabbitmq/khepri
+  category: Database
+- description: The Erlang REST framework
+  repo_url: https://github.com/sinasamavati/leptus
+  category: REST
+- description: MongoDB driver for Erlang
+  repo_url: https://github.com/comtihon/mongodb-erlang
+  category: Database
+- description: Prometheus.io client in Erlang
+  repo_url: https://github.com/deadtrickster/prometheus.erl
+  category: Metrics
+- description: Concuerror is a stateless model checking tool for Erlang programs.
+  repo_url: https://github.com/parapluu/Concuerror
+  category: Model Checking
+- description:
+    Ebot, an Opensource Web Crawler built on top of a nosql database (apache
+    couchdb, riak), AMQP database (rabbitmq), webmachine and mochiweb. Ebot is written
+    in Erlang and it is a very scalable, distribuited and highly configurable web
+    cawler. See wiki pages for more details
+  repo_url: https://github.com/matteoredaelli/ebot
+  category: Web Crawler
+- description: Erlang PostgreSQL client
+  repo_url: https://github.com/wg/epgsql
+  category: PostgreSQL
+- description: OpenTelemetry Erlang SDK
+  repo_url: https://github.com/open-telemetry/opentelemetry-erlang
+  category: Telemetry
+- description: Simple, robust and performant Erlang web server
+  repo_url: https://github.com/elli-lib/elli
+  category: Web Server
+- description: External buffer processes to protect against mailbox overflow in Erlang
+  repo_url: https://github.com/ferd/pobox
+  category: Debug
+- description: Socket.IO server for Erlang
+  repo_url: https://github.com/yrashk/socket.io-erlang
+  category: Web Socket
+- description: Erlang Patterns of Concurrency
+  repo_url: https://github.com/duomark/epocxy
+  category: Language
+- description: GraphQL implementation in Erlang.
+  repo_url: https://github.com/jlouis/graphql-erlang
+  category: GraphQL
+- description: The Riak client for Erlang.
+  repo_url: https://github.com/basho/riak-erlang-client
+  category: Database
+- description:
+    A load-generation and testing tool for basically whatever you can write
+    a returning Erlang function for.
+  repo_url: https://github.com/basho/basho_bench
+  category: Benchmark
+- description: JSON Object Signing and Encryption (JOSE) for Erlang and Elixir
+  repo_url: https://github.com/potatosalad/erlang-jose
+  category: JOSE
+- description: Erlang LSM BTree Storage
+  repo_url: https://github.com/krestenkrab/hanoidb
+  category: Database
+- description:
+    "\u041A\u0443\u0440\u0441 \u043E\u0431\u0443\u0447\u0435\u043D\u0438\
+    \u044F \u042D\u0440\u043B\u0430\u043D\u0433"
+  repo_url: https://github.com/yzh44yzh/practical_erlang
+  category: Language
+- description:
+    Erlang library and packrat parser-generator for parsing expression
+    grammars.
+  repo_url: https://github.com/seancribbs/neotoma
+  category: Language
+- description: Erlang Bittorrent Client
+  repo_url: https://github.com/jlouis/etorrent
+  category: Torrent
+- description: An Erlang OAuth 1.0 implementation
+  repo_url: https://github.com/erlangpack/erlang-oauth
+  category: OAuth
+- description: Partitioned ETS tables for Erlang and Elixir
+  repo_url: https://github.com/cabol/shards
+  category: Database
+- description: A public book on testing Erlang
+  repo_url: https://github.com/zkessin/testing-erlang-book
+  category: Testing
+- description: Erlang JSON library
+  repo_url: https://github.com/sile/jsone
+  category: JSON
+- description:
+    Chef Infra Server is a hub for configuration data; storing cookbooks,
+    node policies and metadata of managed nodes.
+  repo_url: https://github.com/chef/chef-server
+  category: Configuration
+- description: Erlang Orleans
+  repo_url: https://github.com/erleans/erleans
+  category: Distributed Computing
+- description: Support library for manipulating Web protocols.
+  repo_url: https://github.com/ninenines/cowlib
+  category: Web
+- description: "BossDB: a sharded, caching, pooling, evented ORM for Erlang"
+  repo_url: https://github.com/ErlyORM/boss_db
+  category: ORM
+- description: A visual tracer and profiler for Erlang and Elixir.
+  repo_url: https://github.com/Appliscale/xprof
+  category: Debug
+- description: Erlang worker pool
+  repo_url: https://github.com/inaka/worker_pool
+  category: Debug
+- description: "Bragful core: PHP Interpreter in pure Erlang"
+  repo_url: https://github.com/bragful/ephp
+  category: Language
+- description:
+    A new revision of Fuzed, the Erlang-based frontend for web apps. Check
+    out the mailing list at http://groups.google.com/group/fuzed
+  repo_url: https://github.com/KirinDave/fuzed
+  category: Web
+- description:
+    Hibari is a production-ready, distributed, ordered key-value, big data
+    store. Hibari uses chain replication for strong consistency, high-availability,
+    and durability. Hibari has excellent performance especially for read and large
+    value operations.
+  repo_url: https://github.com/hibari/hibari
+  category: Database
+- description: HTTP/HTTPS/Socks4/Socks5 proxy written in Erlang
+  repo_url: https://github.com/yueyoum/make-proxy
+  category: Proxy
+- description: An Erlang library application which implements the Raft consensus protocol
+  repo_url: https://github.com/andrewjstone/rafter
+  category: Consensus
+- description: a micro-framework for web applications in Erlang
+  repo_url: https://github.com/tsujigiri/axiom
+  category: Web
+- description: WebSocket emulation - Erlang server
+  repo_url: https://github.com/sockjs/sockjs-erlang
+  category: Web Socket
+- description: A top-like tool for monitoring an Erlang node
+  repo_url: https://github.com/mazenharake/entop
+  category: Monitoring
+- description: XML parser for Erlang
+  repo_url: https://github.com/willemdj/erlsom
+  category: XML
+- description: Erlang cronish system
+  repo_url: https://github.com/erlware/erlcron
+  category: Cron
+- description: A safety valve for your erlang node
+  repo_url: https://github.com/jlouis/safetyvalve
+  category: Debug
+- description:
+    Erlang state "monad" with merge/conflict-resolution capabilities. Useful
+    for Riak.
+  repo_url: https://github.com/mochi/statebox
+  category: Debug
+- description: tiny Erlang app to generate information on the Erlang VM
+  repo_url: https://github.com/ferd/vmstats
+  category: Debug
+- description: Companion exercises for O'Reilly Media's "Introducing Erlang"
+  repo_url: https://github.com/oreillymedia/etudes-for-erlang
+  category: Language
+- description:
+    Erlang module to parse command line arguments using the GNU getopt
+    syntax
+  repo_url: https://github.com/jcomellas/getopt
+  category: Language
+- description:
+    "Erlang date, time, and timezone management: formatting, conversion,
+    and date arithmetic"
+  repo_url: https://github.com/choptastic/qdate
+  category: Language
+- description: like erlang's webtool, but trendy and new
+  repo_url: https://github.com/beamspirit/bigwig
+  category: Web
+- description: STUN and TURN library for Erlang / Elixir
+  repo_url: https://github.com/processone/stun
+  category: Web
+- description: Apache CouchDB client in Erlang
+  repo_url: https://github.com/benoitc/couchbeam
+  category: Database
+- description:
+    Erlang Easy Profiling (eep) application provides a way to analyze application
+    performance and call hierarchy
+  repo_url: https://github.com/virtan/eep
+  category: Debug
+- description: Mustache template engine for Erlang.
+  repo_url: https://github.com/mojombo/mustache.erl
+  category: Template
+- description:
+    HTTP/2 Server for Erlang. Boy, that guy was a real chatterbox waddn't
+    he?  I didn't think he was ever going to stop with the story.
+  repo_url: https://github.com/joedevivo/chatterbox
+  category: Web
+- description:
+    A linked-in driver for Erlang to Mozilla's Spidermonkey Javascript
+    runtime.
+  repo_url: https://github.com/basho/erlang_js
+  category: Web
+- description:
+    POT is an Erlang library for generating Google Authenticator compatible
+    one time passwords
+  repo_url: https://github.com/yuce/pot
+  category: OTP
+- description: "\U0001F409 SHEN: Erlang JavaScript Compiler"
+  repo_url: https://github.com/synrc/shen
+  category: JavaScript
+- description: Simple, Distributed and Scalable PubSub Message Bus written in Erlang
+  repo_url: https://github.com/cabol/erlbus
+  category: PubSub
+- description: "\U0001F41F GRiSP Erlang Runtime Library"
+  repo_url: https://github.com/grisp/grisp
+  category: Runtime
+- description: Parse transform utilities for Erlang
+  repo_url: https://github.com/uwiger/parse_trans
+  category: Language
+- description: Cuneiform distributed programming language
+  repo_url: https://github.com/joergen7/cuneiform
+  category: Language
+- description: Web framework for Erlang.
+  repo_url: https://github.com/novaframework/nova
+  category: Web
+- description: The modular distributed fingerprinting engine
+  repo_url: https://github.com/kudelskisecurity/scannerl
+  category: Fingerprinting
+- description: Erlang Oauth2 implementation
+  repo_url: https://github.com/kivra/oauth2
+  category: OAuth
+- description: A scalable RPC library for Erlang-VM based languages
+  repo_url: https://github.com/priestjim/gen_rpc
+  category: RPC
+- description: Distributed Python for the Erlang Ecosystem
+  repo_url: https://github.com/lfex/py
+  category: Python
+- description:
+    Erlware Commons is an Erlware project focused on all aspects of reusable
+    Erlang components.
+  repo_url: https://github.com/erlware/erlware_commons
+  category: Erlang
+- description: Erlang Native UUID Generation
+  repo_url: https://github.com/okeuday/uuid
+  category: UUID
+- description: QUIC protocol for Erlang & Elixir
+  repo_url: https://github.com/emqx/quic
+  category: Web
+- description: erlang tracing debugger
+  repo_url: https://github.com/massemanet/redbug
+  category: Debug
+- description: OpenFlow Software Switch written in Erlang
+  repo_url: https://github.com/FlowForwarding/LINC-Switch
+  category: OpenFlow
+- description: Erlang general non-blocking TCP/SSL socket server
+  repo_url: https://github.com/emqx/esockd
+  category: Web
+- description:
+    SERESYE means Swarm oriented ERlang Expert SYstem Engine. It is a library
+    to write expert systems and rule processing engines using the Erlang programming
+    language. It allows to create multiple engines, each one with its own facts and
+    rules to be processed.
+  repo_url: https://github.com/afiniate/seresye
+  category: Expert System
+- description:
+    The repository for the code of the examples in the book Designing for
+    Scalability with Erlang/OTP
+  repo_url: https://github.com/francescoc/scalabilitywitherlangotp
+  category: Scalability
+- description: Erlang task dispatcher based on ETS counters.
+  repo_url: https://github.com/ferd/dispcount
+  category: Debug
+- description: A concolic testing tool for the Erlang functional programming language.
+  repo_url: https://github.com/cuter-testing/cuter
+  category: Testing
+- description: Native Erlang CQL client for Cassandra
+  repo_url: https://github.com/cqerl/cqerl
+  category: Database
+- description: MessagePack (de)serializer implementation for Erlang / msgpack.org[Erlang]
+  repo_url: https://github.com/msgpack/msgpack-erlang
+  category: Serialization
+- description: An Erlang library and collection of applications
+  repo_url: https://github.com/joearms/elib1
+  category: Library
+- description: YAML 1.2 and JSON parser in pure Erlang
+  repo_url: https://github.com/yakaz/yamerl
+  category: Serialization
+- description: Make it easy to use SOAP from Erlang
+  repo_url: https://github.com/bet365/soap
+  category: Web Service
+- description:
+    Ybot - is a helpful chat robot written with Erlang which supports different
+    messaging protocols. [@0xAX]
+  repo_url: https://github.com/OtpChatBot/Ybot
+  category: Chat Bot
+- description: Pure Erlang implementation of ZeroMQ Message Transport Protocol.
+  repo_url: https://github.com/zeromq/chumak
+  category: Transport
+- description: Erlang bindings for NaCl / libsodium
+  repo_url: https://github.com/jlouis/enacl
+  category: Cryptography
+- description: AWS Lambda in Erlang
+  repo_url: https://github.com/alertlogic/erllambda
+  category: Cloud
+- description: Core components of exometer
+  repo_url: https://github.com/Feuerlabs/exometer_core
+  category: Monitoring
+- description: Ubigraph Erlang Client (and Process Visualizer)
+  repo_url: https://github.com/krestenkrab/erlubi
+  category: Visualization
+- description: High-Performance Erlang Network Client Framework
+  repo_url: https://github.com/lpgauth/shackle
+  category: Network
+- description: Erlang client for RabbitMQ
+  repo_url: https://github.com/rabbitmq/rabbitmq-erlang-client
+  category: Queue
+- description: ruby on erlang
+  repo_url: https://github.com/johnlinvc/erruby
+  category: Ruby
+- description: Erlang websocket client (ws and wss supported)
+  repo_url: https://github.com/jeremyong/websocket_client
+  category: Web Socket
+- description: ":boom: An Erlang library for breaking out of faulty services"
+  repo_url: https://github.com/klarna/circuit_breaker
+  category: Fault Tolerance
+- description: Binary pattern match Based Mustache template engine for Erlang/OTP.
+  repo_url: https://github.com/soranoba/bbmustache
+  category: Template
+- description: Erlang XMPP library
+  repo_url: https://github.com/processone/exmpp
+  category: XMPP
+- description: Helper module for working with Erlang terms representing JSON
+  repo_url: https://github.com/seth/ej
+  category: JSON
+- description: Erlang Shell
+  repo_url: https://github.com/karlll/kjell
+  category: Shell
+- description: Erlang Koans
+  repo_url: https://github.com/patrickgombert/erlang-koans
+  category: Learning
+- description: Distributed Erlang without the EPMD
+  repo_url: https://github.com/tsloughter/epmdless
+  category: Network
+- description: Erlang Persistency Framework
+  repo_url: https://github.com/inaka/sumo_db
+  category: Database
+- description: systemd utilities for Erlang applications
+  repo_url: https://github.com/hauleth/erlang-systemd
+  category: System
+- description: Erlang MySQL Driver (from code.google.com)
+  repo_url: https://github.com/dizzyd/erlang-mysql-driver
+  category: Database
+- description: "\u26A1 MAD: Managing Application Dependencies LING/UNIX"
+  repo_url: https://github.com/synrc/mad
+  category: System
+- description: Small exercises to get you used to reading and writing Erlang code
+  repo_url: https://github.com/lambdaclass/erlings
+  category: Learning
+- description: Erlang REST framework
+  repo_url: https://github.com/fbeline/rooster
+  category: Web
+- description: Erlang package manager (A Giant Nebula of Erlang Repositories)
+  repo_url: https://github.com/agner/agner
+  category: Package Manager
+- description: Erlang Priority Queues
+  repo_url: https://github.com/okeuday/pqueue
+  category: Queue
+- description: SIP software written in Erlang
+  repo_url: https://github.com/fredrikt/yxa
+  category: Web
+- description: A blazing fast JSON parser and generator in pure Erlang.
+  repo_url: https://github.com/lpil/thoas
+  category: JSON
+- description: For the times you need more than just a gun.
+  repo_url: https://github.com/inaka/shotgun
+  category: Debug
+- description: OpenId Connect client library in Erlang & Elixir
+  repo_url: https://github.com/erlef/oidcc
+  category: OAuth
+- description: Multi-Paxos framework in Erlang
+  repo_url: https://github.com/basho/riak_ensemble
+  category: Paxos
+- description: Wrangler -- An Erlang Refactorer
+  repo_url: https://github.com/RefactoringTools/wrangler
+  category: Refactoring
+- description: A minimal, high-performance Kafka client in Erlang.
+  repo_url: https://github.com/helpshift/ekaf
+  category: Kafka
+- description: a new dialect of erlang
+  repo_url: https://github.com/joearms/erl2
+  category: Language
+- description: HowTo Erlang in Docker
+  repo_url: https://github.com/erlang/docker-erlang-example
+  category: Docker
+- description: An Erlang app for communicating with Elastic Search's rest interface.
+  repo_url: https://github.com/tsloughter/erlastic_search
+  category: Elastic Search
+- description: ponos is a simple yet powerful load generator written in erlang
+  repo_url: https://github.com/klarna/ponos
+  category: Load Generator
+- description:
+    Enable connection between Erlang VMs from different docker containers
+    on different hosts by reimplementing the distributed connection protocol used
+    by net_kernel.
+  repo_url: https://github.com/Random-Liu/Erlang-In-Docker
+  category: Docker
+- description: Scalaris, a distributed, transactional key-value store
+  repo_url: https://github.com/scalaris-team/scalaris
+  category: Database
+- description: Implementations of popular data structures and algorithms
+  repo_url: https://github.com/aggelgian/erlang-algorithms
+  category: Library
+- description: A Streaming Process-based Skeleton Library for Erlang
+  repo_url: https://github.com/ParaPhrase/skel
+  category: Library
+- description: The Erlang twist on web frameworks
+  repo_url: https://github.com/yariv/erlyweb
+  category: Web
+- description: ":1234: Erlang Binary Pretty Printer"
+  repo_url: https://github.com/jtendo/binpp
+  category: Debug
+- description: Erlang network protocol library
+  repo_url: https://github.com/msantos/pkt
+  category: Network
+- description: A logger for erlang in the spirit of Log4J.
+  repo_url: https://github.com/ahmednawras/log4erl
+  category: Logging
+- description:
+    An Erlang library for generating adversarial network conditions for
+    QAing distributed applications/systems on a single Linux box.
+  repo_url: https://github.com/lostcolony/damocles
+  category: QA
+- description:
+    An up to date riak_core tutorial, using basho's riak_core, Erlang/OTP
+    23-24-25 and rebar3.
+  repo_url: https://github.com/lambdaclass/riak_core_tutorial
+  category: Tutorial
+- description: An ncurses library for Erlang
+  repo_url: https://github.com/mazenharake/cecho
+  category: Library
+- description: CLI Framework for Erlang
+  repo_url: https://github.com/basho/clique
+  category: CLI
+- description:
+    "\U0001F9CA \u0427\u0438\u0441\u0442\u0430 \u0441\u0438\u0441\u0442\
+    \u0435\u043C\u0430 \u0437 \u0432\u0441\u0435\u0441\u0432\u0456\u0442\u0430\u043C\
+    \u0438"
+  repo_url: https://github.com/groupoid/henk.ex
+  category: CLI
+- description: Erlang NIF Wrapper Generator
+  repo_url: https://github.com/parapluu/nifty
+  category: NIF
+- description: An Erlang language kernel for IPython.
+  repo_url: https://github.com/robbielynch/ierlang
+  category: IPython
+- description: Erlang Distributed Scheduler
+  repo_url: https://github.com/GameAnalytics/gascheduler
+  category: Scheduler
+- description:
+    Prototype implementation of Conflict-free Replicated Data Types (CRDTs)
+    in Erlang.
+  repo_url: https://github.com/lasp-lang/types
+  category: CRDT
+- description: Complex event processing in Erlang
+  repo_url: https://github.com/vascokk/rivus_cep
+- description: Erlang grpc on chatterbox
+  repo_url: https://github.com/tsloughter/grpcbox
+  category: gRPC
+- description: An Erlang/Elixir/BEAM profiler tool
+  repo_url: https://github.com/rabbitmq/looking_glass
+  category: Profiler
+- description: simplified query engine based on logic programming paradigm
+  repo_url: https://github.com/fogfish/datalog
+  category: Datalog
+- description: Erlang in-memory cache
+  repo_url: https://github.com/fogfish/cache
+  category: Cache
+- description: Concurrent profiling tool for Erlang
+  repo_url: https://github.com/huiqing/percept2
+  category: Profiling
+- description: A stats collection and distributed tracing framework
+  repo_url: https://github.com/census-instrumentation/opencensus-erlang
+  category: Tracing
+- description:
+    Erlang/Elixir XMPP parsing and serialization library on top of Fast
+    XML
+  repo_url: https://github.com/processone/xmpp
+  category: XMPP
+- description:
+    A small portable virtual machine that would run Erlang on embedded
+    systems
+  repo_url: https://github.com/kvakvs/E4VM
+  category: VM
+- description: Simple exponential backoffs in Erlang
+  repo_url: https://github.com/ferd/backoff
+  category: Library
+- description: Fast Expat based Erlang XML parsing library
+  repo_url: https://github.com/processone/fast_xml
+  category: XML
+- description: Erlang Trie Implementation
+  repo_url: https://github.com/okeuday/trie
+  category: Library
+- description: SSL Certificates for Erlang
+  repo_url: https://github.com/certifi/erlang-certifi
+  category: SSL
+- description: A set of Protocol Buffers tools and modules for Erlang applications.
+  repo_url: https://github.com/ngerakines/erlang_protobuffs
+  category: Protocol Buffers
+- description: Avro support for Erlang/Elixir (http://avro.apache.org/)
+  repo_url: https://github.com/klarna/erlavro
+  category: Avro
+- description: An XMPP client library in Erlang for conveniently testing XMPP servers
+  repo_url: https://github.com/esl/escalus
+  category: XMPP
+- description: An ISO 8601 date formating and parsing library for Erlang
+  repo_url: https://github.com/erlsci/iso8601
+  category: Date
+- description:
+    "Bondy is an open source, always-on and scalable application networking\
+    \ platform connecting all elements of a distributed application\u2014offering\
+    \ service and event mesh capabilities combined. Bondy implements the open Web\
+    \ Application Messaging Protocol (WAMP) and is written in Erlang."
+  repo_url: https://github.com/bondy-io/bondy
+  category: WAMP
+- description: In-memory circular array database
+  repo_url: https://github.com/selectel/yawndb
+  category: Database
+- description: Erlang support for Visual Studio Code
+  repo_url: https://github.com/pgourlain/vscode_erlang
+  category: IDE
+- description:
+    Early prototype of ErlT, an experimental Erlang dialect with first-class
+    support for static typing.
+  repo_url: https://github.com/WhatsApp/erlt
+  category: Language
+- description: lhttpc is a lightweight HTTP/1.1 client implemented in Erlang.
+  repo_url: https://github.com/esl/lhttpc
+  category: HTTP
+- description: Exercism exercises in Erlang.
+  repo_url: https://github.com/exercism/erlang
+  category: Learning
+- description:
+    The resulting source code produced at the end of each chapter in Handbook
+    of Neuroevolution Through Erlang.
+  repo_url: https://github.com/CorticalComputer/Book_NeuroevolutionThroughErlang
+  category: Learning
+- description: Erlang interface for V8
+  repo_url: https://github.com/beamjs/erlv8
+  category: JavaScript
+- description: Erlang Benchmarking Suite. Simpler way to say "this code is faster".
+  repo_url: https://github.com/max-au/erlperf
+  category: Benchmark
+- description: pure functional and generic programming for Erlang
+  repo_url: https://github.com/fogfish/datum
+  category: Library
+- description: Rack handler for erlang
+  repo_url: https://github.com/erlyvideo/rack
+  category: Web
+- description:
+    Chess representation written in Erlang using Bitboards, ready for use
+    on game servers
+  repo_url: https://github.com/DOBRO/binbo
+  category: Chess
+- description: DHT implementation in Erlang
+  repo_url: https://github.com/jlouis/dht
+  category: DHT
+- description: HTTP2 client for Erlang based on libcurl and libevent
+  repo_url: https://github.com/puzza007/katipo
+  category: HTTP
+- description: Static site generator using Erlang. Yes, Erlang.
+  repo_url: https://github.com/gar1t/lambdapad
+  category: Web
+- description:
+    jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator
+    for Erlang.
+  repo_url: https://github.com/for-GET/jesse
+  category: JSON
+- description: Unicode eXtention for Erlang (Strings, Collation)
+  repo_url: https://github.com/erlang-unicode/ux
+  category: Library
+- description: An Erlang language server, providing IDE services.
+  repo_url: https://github.com/erlang/sourcer
+  category: Language Server
+- description: An easy direct Erlang CouchDB library.
+  repo_url: https://github.com/jchris/hovercraft
+  category: Database
+- description:
+    Project that aims to simplify Erlang/OTP development and improve developer
+    productivity
+  repo_url: https://github.com/gar1t/e2
+  category: Library
+- description: Erlang RFC4627 (JSON) codec and JSON-RPC server implementation.
+  repo_url: https://github.com/tonyg/erlang-rfc4627
+  category: JSON
+- description: Swagger integration for Cowboy (built on trails)
+  repo_url: https://github.com/inaka/cowboy_swagger
+  category: Web
+- description: An Erlang implementation of libp2p swarms
+  repo_url: https://github.com/helium/erlang-libp2p
+  category: Library
+- description: Erlang Docs in the Shell predating EEP-48 and shell_docs
+  repo_url: https://github.com/erszcz/docsh
+  category: Library
+- description: Asynchronously replicated Mnesia-like database for Erlang/Elixir
+  repo_url: https://github.com/emqx/mria
+  category: Database
+- description: Erlang driver for nanomsg
+  repo_url: https://github.com/basho/enm
+  category: Library
+- description: Pure Erlang network stack
+  repo_url: https://github.com/archaelus/enet
+  category: Library
+- description: Erlang SIP
+  repo_url: https://github.com/poroh/ersip
+  category: SIP
+- description: A distributed KV store for Erlang and Elixir.
+  repo_url: https://github.com/ostinelli/ram
+  category: Database
+- description: A framework to manage jobs at huge Erlang clusters
+  repo_url: https://github.com/NetComposer/nkcluster
+  category: Cluster
+- description:
+    KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for
+    Erlang.
+  repo_url: https://github.com/for-GET/katt
+  category: HTTP
+- description:
+    dhtcrawler is a DHT crawler written in erlang. It can join a DHT network
+    and crawl many P2P torrents.
+  repo_url: https://github.com/kevinlynx/dhtcrawler
+  category: DHT
+- description: A Lisp on the Erlang VM
+  repo_url: https://github.com/kapok-lang/kapok
+  category: Language
+- description: Erlang PostgreSQL driver
+  repo_url: https://github.com/semiocast/pgsql
+  category: Database
+- description: Minimum viable Erlang web framework
+  repo_url: https://github.com/flashingpumpkin/spooky
+  category: Web
+- description: SHA-224, SHA-256, SHA-384, SHA-512 implemented in Erlang NIFs.
+  repo_url: https://github.com/vinoski/erlsha2
+  category: Library
+- description: Cap'n Proto library for Erlang
+  repo_url: https://github.com/kaos/ecapnp
+  category: Library
+- description: Erlang with SQL or not
+  repo_url: https://github.com/artemeff/eql
+  category: SQL
+- description: Lexical analyzer generator for Erlang
+  repo_url: https://github.com/rvirding/leex
+  category: Lexer
+- description: Efficiently collect massive volumes of metrics inside the Erlang VM
+  repo_url: https://github.com/knutin/statman
+  category: Metrics
+- description: Erlang Generic Game Server
+  repo_url: https://github.com/jordillonch/eggs
+  category: Game
+- description:
+    Luvvie Script. An Erlang dialect that compiles to Javascript for Actor-style
+    DOM scripting
+  repo_url: https://github.com/hypernumbers/LuvvieScript
+  category: Language
+- description: The Erlang git-daemon
+  repo_url: https://github.com/mojombo/egitd
+  category: Git
+- description: Erlang Game Server
+  repo_url: https://github.com/essen/egs
+  category: Game
+- description: Erlang to PureScript transpiler. Run Erlang in the browser!
+  repo_url: https://github.com/erlscripten/erlscripten
+  category: Language
+- description: Erlang UUID
+  repo_url: https://github.com/avtobiff/erlang-uuid
+  category: Library
+- description: A tool for rapid profiling of Erlang and Elixir applications
+  repo_url: https://github.com/Stratus3D/eflambe
+  category: Profiling
+- description: A simple, standardized interface library to Erlang HTTP Servers.
+  repo_url: https://github.com/nitrogen/simple_bridge
+  category: Web
+- description: An Erlang twitter client
+  repo_url: https://github.com/ngerakines/erlang_twitter
+  category: Twitter
+- description: MMDB reader for geolocation and ASN lookup of IP addresses
+  repo_url: https://github.com/g-andrade/locus
+  category: Geolocation
+- description: Guess Erlang Application Scattering
+  repo_url: https://github.com/crownedgrouse/geas
+  category: Library
+- description: Erlang Formatter for Rebar3
+  repo_url: https://github.com/AdRoll/rebar3_format
+  category: Library
+- description: Sortable Erlang Term Serialization
+  repo_url: https://github.com/uwiger/sext
+  category: Library
+- description: Generic Erlang CoAP Client/Server
+  repo_url: https://github.com/gotthardp/gen_coap
+  category: CoAP
+- description: The Jungle of Erlang code
+  repo_url: https://github.com/gebi/jungerl
+  category: Library
+- description: KVC - Key Value Coding for Erlang data structures
+  repo_url: https://github.com/etrepum/kvc
+  category: Library
+- description: Oracle Database driver for Erlang
+  repo_url: https://github.com/erlangbureau/jamdb_oracle
+  category: Database
+- description: Collection of ssl verification functions for Erlang
+  repo_url: https://github.com/deadtrickster/ssl_verify_fun.erl
+  category: Library
+- description: Support for OpenTracing in Erlang
+  repo_url: https://github.com/Bluehouse-Technology/otter
+  category: Library
+- description: Parallel worker and capacity limiting library for Erlang
+  repo_url: https://github.com/basho/sidejob
+  category: Library
+- description: Library implementing the SPDY protocol
+  repo_url: https://github.com/RJ/erlang-spdy
+  category: HTTP
+- description: An Erlang Memcached Client.
+  repo_url: https://github.com/joewilliams/merle
+  category: Library
+- description: ":beetle:  Primitive Erlang Security Tool"
+  repo_url: https://github.com/okeuday/pest
+  category: Library
+- description: Rebar-friendly fork of rabbitmq-erlang-client
+  repo_url: https://github.com/jbrisbin/amqp_client
+  category: Library
+- description: Erlang indentation and syntax for Vim
+  repo_url: https://github.com/vim-erlang/vim-erlang-runtime
+  category: Editor
+- description: Erlang interface to ICMP sockets
+  repo_url: https://github.com/msantos/gen_icmp
+  category: Library
+- description: pure erlang implementation of Cucumber parser & driver
+  repo_url: https://github.com/membase/cucumberl
+  category: Testing
+- description: High-Performance Erlang StatsD Client
+  repo_url: https://github.com/lpgauth/statsderl
+  category: Metrics
+- description:
+    An application used to dynamically discover resources present in an
+    Erlang node cluster.
+  repo_url: https://github.com/erlware/resource_discovery
+  category: Cluster
+- description: A simple, yet powerful Erlang cluster bootstrapping application.
+  repo_url: https://github.com/schlagert/bootstrap
+  category: Cluster
+- description: Erlang library for GRPC
+  repo_url: https://github.com/Bluehouse-Technology/grpc
+  category: Protocol
+- description: Port of Poul-Henning Kamp's ministat to the Erlang world
+  repo_url: https://github.com/jlouis/eministat
+  category: Metrics
+- description: Erlang driver for MongoDB with gridfs that works with maps and proplists
+  repo_url: https://github.com/SergejJurecko/erlmongo
+  category: Database
+- description: Erlang BERT encoder/decoder
+  repo_url: https://github.com/mojombo/bert.erl
+  category: Protocol
+- description:
+    Numeric Erlang - vector and matrix operations with CUDA. Heavily inspired
+    by Pteracuda - https://github.com/kevsmith/pteracuda
+  repo_url: https://github.com/vascokk/NumEr
+  category: Library
+- description: A load-testing framework for running massively parallel tests
+  repo_url: https://github.com/esl/amoc
+  category: Testing
+- description:
+    Erlang IP Geolocation module, currently supporting the MaxMind GeoLite
+    City Database.
+  repo_url: https://github.com/mochi/egeoip
+  category: Geolocation
+- description: Kafka protocol erlang library
+  repo_url: https://github.com/kafka4beam/kafka_protocol
+  category: Protocol
+- description: Erlang implementation of HyperLogLog
+  repo_url: https://github.com/GameAnalytics/hyper
+  category: Protocol
+- description: Erlang DNS library.
+  repo_url: https://github.com/dnsimple/dns_erlang
+  category: DNS
+- description: Microservices for Erlang
+  repo_url: https://github.com/videlalvaro/gen_microservice
+  category: Microservices
+- description: Erlang Rest Client
+  repo_url: https://github.com/kivra/restclient
+  category: HTTP
+- description: A Pure Erlang ZooKeeper Client (no C dependency)
+  repo_url: https://github.com/huaban/erlzk
+  category: Library
+- description: Database for storing Stock Exchange quotes in erlang
+  repo_url: https://github.com/maxlapshin/stockdb
+  category: Database
+- description:
+    Version-incrementing, appup-generating, relx-coaxing, workflow-assistant
+    for Erlang projects using rebar3.
+  repo_url: https://github.com/RJ/relflow
+  category: Library
+- description: CloudI Process Groups
+  repo_url: https://github.com/okeuday/cpg
+  category: Library
+- description:
+    Experimental library to bring pipe and maybe operator equivalents in
+    Erlang
+  repo_url: https://github.com/fenollp/fancyflow
+  category: Library
+- description: A supercompiler pass for Erlang
+  repo_url: https://github.com/fenollp/erlscp
+  category: Library
+- description:
+    etap is a simple erlang testing library that provides TAP compliant
+    output.
+  repo_url: https://github.com/ngerakines/etap
+  category: Testing
+- description: Signaling and ICE servers for WebRTC in Erlang
+  repo_url: https://github.com/lambdaclass/webrtc-server
+  category: WebRTC
+- description: Erlang port of Hamcrest
+  repo_url: https://github.com/hyperthunk/hamcrest-erlang
+  category: Library
+- description: Create graphs of Erlang systems and programs
+  repo_url: https://github.com/eproxus/grapherl
+  category: Library
+- description: "DEPRECATED: Erlang based Chef Server top-level OTP release project"
+  repo_url: https://github.com/chef-boneyard/erchef
+  category: Library
+- description: Ragnarok Online server software written in Erlang.
+  repo_url: https://github.com/aliter/aliter
+  category: Game
+- description: '["Linux VM", ["Erlang Process", ["Erlang VM"]]].'
+  repo_url: https://github.com/msantos/evum
+  category: Library
+- description:
+    Timer module for Erlang that makes it easy to abstact time out of the
+    tests.
+  repo_url: https://github.com/lehoff/kairos
+  category: Library
+- description: A simple tty interface to the Erlang debugger and tracer.
+  repo_url: https://github.com/etnt/edbg
+  category: Library
+- description: Erlang Services Platform
+  repo_url: https://github.com/duomark/erlangsp
+  category: Library
+- description: simple TCP routing proxy (layer 7) in erlang
+  repo_url: https://github.com/benoitc/cowboy_revproxy
+  category: HTTP
+- description: Erlang port driver for interacting with syslog via syslog(3)
+  repo_url: https://github.com/Vagabond/erlang-syslog
+  category: Library
+- description: A behaviour/support library for writing plain Erlang FSMs.
+  repo_url: https://github.com/uwiger/plain_fsm
+  category: Library
+- description: Erlang stats aggregation app that periodically flushes data to graphite
+  repo_url: https://github.com/RJ/estatsd
+  category: Metrics
+- description:
+    This is another erlang CouchDB client. It is a little simpler than
+    most and does what I want.
+  repo_url: https://github.com/ngerakines/erlang_couchdb
+  category: Database
+- description: Erlang/OTP oriented build system
+  repo_url: https://github.com/erlware-deprecated/sinan
+  category: Library
+- description: date manipulation library for erlang
+  repo_url: https://github.com/dweldon/edate
+  category: Library
+- description: An Erlang application release in a Docker container from scratch
+  repo_url: https://github.com/shortishly/erlang-in-docker-from-scratch
+  category: Docker
+- description: ANSI colors for your Erlang
+  repo_url: https://github.com/julianduque/erlang-color
+  category: Library
+- description: A Treasure Hunt for Erlangers
+  repo_url: https://github.com/inaka/gold_fever
+  category: Community
+- description: Docker Remote API client for Erlang
+  repo_url: https://github.com/proger/erldocker
+  category: Docker
+- description: QR Code encoder in Erlang
+  repo_url: https://github.com/komone/qrcode
+  category: Library
+- description: Run JavaScript from Erlang in an external OS process.
+  repo_url: https://github.com/strange/erlang_v8
+  category: Library
+- description: Erlang kafka driver based on librdkafka
+  repo_url: https://github.com/silviucpp/erlkaf
+  category: Protocol
+- description: An Erlang application for Google Cloud Messaging
+  repo_url: https://github.com/pdincau/gcm-erlang
+  category: Protocol
+- description: WebSocket Server and Client implementation in Erlang/Mochiweb
+  repo_url: https://github.com/davebryson/erlang_websocket
+  category: WebSocket
+- description: barrel_tcp  is a generic TCP acceptor pool with low latency in Erlang.
+  repo_url: https://github.com/benoitc-attic/barrel_tcp
+  category: Library
+- description: Erlang library for testing http requests
+  repo_url: https://github.com/tank-bohr/bookish_spork
+  category: Testing
+- description: Yes, another Erlang web server!
+  repo_url: https://github.com/gar1t/psycho
+  category: HTTP
+- description: erGW - Erlang implementations of GGSN or P-GW
+  repo_url: https://github.com/travelping/ergw
+  category: Library
+- description:
+    MergeIndex is an Erlang library for storing ordered sets on disk. It
+    is very similar to an SSTable (in Google's Bigtable) or an HFile (in Hadoop).
+  repo_url: https://github.com/basho/merge_index
+  category: Library
+- description:
+    Erlang Simple Object Notation - dynamic name-value dictionary data
+    type and syntax for Erlang
+  repo_url: https://github.com/alavrik/erlson
+  category: Library
+- description: Tree-sitter Grammar for Erlang
+  repo_url: https://github.com/WhatsApp/tree-sitter-erlang
+  category: Library
+- description: A simple extendable irc bot in Erlang
+  repo_url: https://github.com/gdamjan/erlang-irc-bot
+  category: Library
+- description: Erlang TUN/TAP interface
+  repo_url: https://github.com/msantos/tunctl
+  category: Library
+- description: Erlang Postgres client and connection pool
+  repo_url: https://github.com/erleans/pgo
+  category: Database
+- description: EMQX Webhook Plugin
+  repo_url: https://github.com/emqx/emqx-web-hook
+  category: Plugin
+- description: Fast memcached protocol client in pure Erlang
+  repo_url: https://github.com/EchoTeam/mcd
+  category: Library
+- description:
+    eredis_cluster is an erlang wrapper for eredis to support cluster mode
+    of redis 3.0.0+
+  repo_url: https://github.com/adrienmo/eredis_cluster
+  category: Library
+- description:
+    Erlang messaging server optimized to send 1 message to 40k subscribers
+    to a topic in < 1s
+  repo_url: https://github.com/tolbrino/hotwheels
+  category: Library
+- description: Metaprogramming in Erlang
+  repo_url: https://github.com/richcarl/merl
+  category: Library
+- description: Merkle Trees for data replication in Erlang
+  repo_url: https://github.com/ferd/merklet
+  category: Library
+- description: simple Erlang config handler using INI files
+  repo_url: https://github.com/benoitc/econfig
+  category: Library
+- description:
+    "Erlang shell with advanced features: evaluating non-exported functions
+    and shortcuts for frequently used functions."
+  repo_url: https://github.com/WhatsApp/power_shell
+  category: Library
+- description:
+    All of the public Erlang/OTP source releases (since R6B-0 in 1999)
+    in convenient git form
+  repo_url: https://github.com/mfoemmel/erlang-otp
+  category: Library
+- description: High-Performance Erlang HTTP 1.1 Client
+  repo_url: https://github.com/lpgauth/buoy
+  category: HTTP
+- description: Create, configure, and manage AWS services from Erlang code.
+  repo_url: https://github.com/aws-beam/aws-erlang
+  category: AWS
+- description: High-Performance Erlang Cassandra driver based on DataStax cpp-driver
+  repo_url: https://github.com/silviucpp/erlcass
+  category: Database
+- description: "[MIRROR] Video, audio and Image Converter for Erlang/Elixir"
+  repo_url: https://github.com/G-Corp/vice
+  category: Library
+- description: Erlang MIME types library
+  repo_url: https://github.com/erlangpack/mimetypes
+  category: Library
+- description: Erlang XMPP Client
+  repo_url: https://github.com/engineyard/natter
+  category: Protocol
+- description: A minimal library for building scalable TCP servers in Erlang
+  repo_url: https://github.com/sinasamavati/condor
+- description:
+    JavaErlang is a library that attempts to facilitate the communication
+    between Java and Erlang nodes, implemented as an additional layer on top  of the
+    JInterface Java interface.
+  repo_url: https://github.com/fredlund/JavaErlang
+  category: Protocol
+- description: Tool to convert Erlang cover data files into Cobertura XML reports
+  repo_url: https://github.com/covertool/covertool
+  category: Library
+- description: Erlang SMTP library
+  repo_url: https://github.com/archaelus/esmtp
+- description: HTTP/2 server written in Erlang
+  repo_url: https://github.com/tatsuhiro-t/lucid
+- description: Erlang Git Implementation
+  repo_url: https://github.com/schacon/erlangit
+- description: A rebar3 plugin for frictionless release upgrades
+  repo_url: https://github.com/lrascao/rebar3_appup_plugin
+- description: pipelined erlang redis client
+  repo_url: https://github.com/jkvor/redo
+- description: Simple OTP app for managing Erlang VM system_monitor event messages
+  repo_url: https://github.com/basho/riak_sysmon
+- description: Erlang OAuth2 Client
+  repo_url: https://github.com/kivra/oauth2_client
+- description: Alternative to the erlang documentation
+  repo_url: https://github.com/daleharvey/erldocs
+- description: A simple chat server written in Erlang.
+  repo_url: https://github.com/luisgabriel/erl-chat-server
+- description: A wrapper on the RabbitMQ Erlang Client (Erlang)
+  repo_url: https://github.com/jlouis/turtle
+- description: automatic Erlang node discovery via redis
+  repo_url: https://github.com/jkvor/redgrid
+- description: A couple of improvements over Cowboy Routes
+  repo_url: https://github.com/inaka/cowboy-trails
+- description: Erlang SQL constructor
+  repo_url: https://github.com/ddosia/mekao
+- description: generic plugin & hook system for Erlang applications
+  repo_url: https://github.com/benoitc/hooks
+- description: A lightweight, convention over configuration test framework for Erlang
+  repo_url: https://github.com/wooga/etest
+- description: Generic setup utility for Erlang-based systems
+  repo_url: https://github.com/uwiger/setup
+- description:
+    Scientific Computing on the Erlang VM - An LFE Wrapper Library for
+    SciPy, NumPy, etc.
+  repo_url: https://github.com/lfeutre/lsci
+- description: "sfmt-erlang: SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang"
+  repo_url: https://github.com/jj1bdx/sfmt-erlang
+- description: A library that implements the sagas pattern for Erlang
+  repo_url: https://github.com/jadeallenx/gisla
+- description: Erlang internationalization library.
+  repo_url: https://github.com/etnt/gettext
+- description: A generic interface to different metrics systems in Erlang.
+  repo_url: https://github.com/benoitc/erlang-metrics
+- description: Erlang + ClojureScript app to send holiday reminders
+  repo_url: https://github.com/lambdaclass/holiday_pinger
+- description: Erlang Package Manager
+  repo_url: https://github.com/jkvor/epm
+- description: Erlang implementation of HoneyBadgerBFT
+  repo_url: https://github.com/helium/erlang-hbbft
+- description: Erlang package maker
+  repo_url: https://github.com/flussonic/epm
+- description: "erlang \u6E38\u620F\u670D\u52A1\u5668\u6846\u67B6\u3002"
+  repo_url: https://github.com/fillmyheart/slg-server
+- description: a set of statistics functions for erlang
+  repo_url: https://github.com/boundary/bear
+- description: MySQL Server Protocol in Erlang
+  repo_url: https://github.com/altenwald/myproto
+- description: Erlang stdlib extensions.
+  repo_url: https://github.com/0xYUANTI/stdlib2
+- description: Elixir, Erlang, Gleam & LFE code all in the same project!
+  repo_url: https://github.com/wojtekmach/hello_beam
+- description: This project will no longer be maintained.
+  repo_url: https://github.com/w2l0o5/observerweb
+- description: Sequential Binding Parse Transformation for Erlang
+  repo_url: https://github.com/spawngrid/seqbind
+- description: Protocol Buffers, JSON, XML data serialization system for Erlang
+  repo_url: https://github.com/alavrik/piqi-erlang
+- description: The Erlang Dead Code Cleaner
+  repo_url: https://github.com/AdRoll/rebar3_hank
+- description: NIF-based date and time parsing and formatting for Erlang
+  repo_url: https://github.com/selectel/tempo
+- description:
+    Rebar Erlang, OTP and other project templates. Use rebar3 for rebar3
+    templates and updates.
+  repo_url: https://github.com/mbbx6spp/rebar-templates
+- description: "Elixir Flavoured Erlang: an Erlang to Elixir Transpiler"
+  repo_url: https://github.com/marianoguerra/efe
+- description: Lasp driven process group registry for Erlang.
+  repo_url: https://github.com/lasp-lang/lasp_pg
+- description: Lens implementation in Erlang
+  repo_url: https://github.com/jlouis/erl-lenses
+- description: Erlang UUID Module
+  repo_url: https://github.com/travis/erlang-uuid
+- description:
+    Proxy server written in erlang.  Supports reverse proxy load balancing
+    and forward proxy with http (including CONNECT), socks4, socks5, and transparent
+    proxy modes.
+  repo_url: https://github.com/skruger/Surrogate
+- description: Common library used by rabbitmq-server and rabbitmq-erlang-client
+  repo_url: https://github.com/rabbitmq/rabbitmq-common
+- description: A pool mining software written in Erlang for cryptographic currencies
+  repo_url: https://github.com/p2k/ecoinpool
+- description:
+    Erlang Postgres application that uses Poolboy and deals with the database
+    being unavailable
+  repo_url: https://github.com/epgsql/pgapp
+- description: A simple, fault-tolerant distributed lock server in erlang.
+  repo_url: https://github.com/dustin/elock
+- description: Erlang port of famous radamsa fuzzzer.
+  repo_url: https://github.com/Darkkey/erlamsa
+- description:
+    Director is a production-ready supervisor and manager for Erlang/Elixir
+    processes that focuses on speed, performance and flexibility.
+  repo_url: https://github.com/pouriya/director
+- description:
+    A project to unify various implementations of the Erlang library gen_leader
+    into a modern, robust single implementation
+  repo_url: https://github.com/KirinDave/gen_leader_revival
+- description: Pure Key/Value database library for Erlang Applications
+  repo_url: https://github.com/refuge/cowdb
+- description: Erlang Docker client
+  repo_url: https://github.com/NetComposer/nkdocker
+- description: Erlang configuration provider / application:get_env/2 on steroids
+  repo_url: https://github.com/jtendo/confetti
+- description: The McErlang model checker for Erlang
+  repo_url: https://github.com/fredlund/McErlang
+- description: An emulsifying Erlang SOAP library
+  repo_url: https://github.com/devinus/detergent
+- description: redis erlang client library (imported from bitbucket)
+  repo_url: https://github.com/cstar/erldis
+- description: A generic library to load balance communication between Erlang nodes
+  repo_url: https://github.com/boundary/gen_lb
+- description: Erlang IRC client/server framework
+  repo_url: https://github.com/archaelus/erlirc
+- description: Erlang XQuery 3.1 Processor
+  repo_url: https://github.com/zadean/xqerl
+- description: Ruby to Erlang Bridge And Runner
+  repo_url: https://github.com/mojombo/rebar
+- description: Build .deb packages from Erlang releases
+  repo_url: https://github.com/arjan/pkgx
+- description: A PHP eval server for Erlang/OTP.
+  repo_url: https://github.com/skeltoac/php_app
+- description: library for modeling Petri nets in Erlang
+  repo_url: https://github.com/joergen7/gen_pnet
+- description: Very Simple Erlang Spell Checker
+  repo_url: https://github.com/inaka/sheldon
+- description: Elevator control system demonstrating Erlang/OTP upgrades.
+  repo_url: https://github.com/extend/elevators
+- description: Generate Vim tags for Erlang files
+  repo_url: https://github.com/vim-erlang/vim-erlang-tags
+- description: FlowER - a Erlang OpenFlow development platform
+  repo_url: https://github.com/travelping/flower
+- description: Erlang shell tools
+  repo_url: https://github.com/proger/erlsh
+- description: Generic Erlang transport layer
+  repo_url: https://github.com/NetComposer/nkpacket
+- description:
+    ":ok_hand: erlang grab bag of useful functions. it should have been
+    called swiss army knife but katanas are more deadlier ;)"
+  repo_url: https://github.com/lambdaclass/erlang-katana
+- description: Ordered fixed-size binary dictionary in Erlang
+  repo_url: https://github.com/knutin/bisect
+- description: The core of an Erlang linter
+  repo_url: https://github.com/inaka/elvis_core
+- description: minimal container runtime in erlang
+  repo_url: https://github.com/emirozer/beamwhale
+- description: "Erlang\u306E\u4FBF\u5229\u306A\u30E9\u30A4\u30D6\u30E9\u30EA\u96C6"
+  repo_url: https://github.com/dwango/moyo
+- description: Syntax checker for Erlang
+  repo_url: https://github.com/ten0s/syntaxerl
+- description: Erlang/Elixir OpenTelemetry API
+  repo_url: https://github.com/open-telemetry/opentelemetry-erlang-api
+- description: A simple Facebook Platform API interface in Erlang.
+  repo_url: https://github.com/ngerakines/erlang_facebook
+- description: Inline C code in Erlang modules to build NIFs
+  repo_url: https://github.com/inaka/niffy
+- description: BSON documents in Erlang, see bsonspec.org
+  repo_url: https://github.com/comtihon/bson-erlang
+- description: Python interpreter written in pure Erlang.
+  repo_url: https://github.com/cnwzhjs/python.erl
+- description: An RFC 3164 and RFC 5424 compliant logging framework for Erlang.
+  repo_url: https://github.com/schlagert/syslog
+- description: Bitcoin Erlang Node - scalable bitcoin daemon
+  repo_url: https://github.com/r-willis/biten
+- description: Erlang implementation of the libvirtd remote protocol
+  repo_url: https://github.com/msantos/verx
+- description: High-Performance Erlang Stream Processor
+  repo_url: https://github.com/lpgauth/swirl
+- description: Generic cowboy handlers to work with Sumo
+  repo_url: https://github.com/inaka/sumo_rest
+- description: A Heilum Blockchain Node
+  repo_url: https://github.com/helium/blockchain-node
+- description:
+    An Erlang/OTP-style implementation of the PAXOS distributed consensus
+    protocol
+  repo_url: https://github.com/gburd/gen_paxos
+- description: An Erlang-flavoured SQL DSL
+  repo_url: https://github.com/devinus/sqerl
+- description: An Erlang implementation of the R*-tree spacial data structure
+  repo_url: https://github.com/armon/erl-rstar
+- description:
+    Websocket and Socket.IO support for RabbitMQ (deprecated -- see https://github.com/sockjs/sockjs-erlang
+    instead)
+  repo_url: https://github.com/rabbitmq/rabbit-socks
+- description: Native Erlang Unix serial interface
+  repo_url: https://github.com/msantos/srly
+- description: Futures implemented in Erlang
+  repo_url: https://github.com/gleber/erlfu
+- description: Safe and Fast Bloom Filter + FBFs for Erlang
+  repo_url: https://github.com/Vonmo/erbloom
+- description: Erlang omnicomplete plugin for Vim
+  repo_url: https://github.com/vim-erlang/vim-erlang-omnicomplete
+- description: Multi-Player Game on top of HDP protocol
+  repo_url: https://github.com/inaka/serpents
+- description: Erlang on Bare Metal
+  repo_url: https://github.com/FlowForwarding/lincx
+- description: Logger framework for Erlang applications
+  repo_url: https://github.com/eltex-ecss/chronica
+- description: Erlang library for conversion from one local time to another
+  repo_url: https://github.com/dmitryme/erlang_localtime
+- description: Simulating Netsplits using the Erlang Port Mapper Deamon
+  repo_url: https://github.com/dergraf/epmdpxy
+- description: implements NAT handling facilities for Erlang applications
+  repo_url: https://github.com/benoitc/erlang-nat
+- description: Erlang Crashdump Analysis Suite
+  repo_url: https://github.com/archaelus/edump
+- description:
+    A pure Erlang library for creating PNG images. It can currently create
+    8 and 16 bit RGB, RGB with alpha, indexed, grayscale and grayscale with alpha
+    images.
+  repo_url: https://github.com/yuce/png
+- description: Erlang RTMP server
+  repo_url: https://github.com/windock/erlyvideo
+- description: Erlang syntax checking and compiler plugin for Vim
+  repo_url: https://github.com/vim-erlang/vim-erlang-compiler
+- description: zMQ implemented in Erlang
+  repo_url: https://github.com/RoadRunnr/ezmq
+- description: "ecache: Erlang ETS Based TTL Cache"
+  repo_url: https://github.com/mattsta/ecache
+- description: compile and load erlang modules from string input
+  repo_url: https://github.com/jkvor/dynamic_compile
+- description: simple persistent queues for Erlang
+  repo_url: https://github.com/fogfish/esq
+- description:
+    Concrete enhances your rebar based Erlang project by providing a common
+    Makefile wrapper, a dialyzer make target that caches PLT analysis of your project's
+    dependencies, and a mechanism to specify development only dependencies.
+  repo_url: https://github.com/chef/concrete
+- description: BEAM friendly spinlocks for Elixir/Erlang
+  repo_url: https://github.com/whitfin/sleeplocks
+- description: Erlang Kubernetes client
+  repo_url: https://github.com/tsloughter/kuberl
+- description: Erlang RADIUS server framework
+  repo_url: https://github.com/travelping/eradius
+- description: Erlang wrapper for Telegram bot API https://core.telegram.org/bots
+  repo_url: https://github.com/seriyps/pe4kin
+- description: High-Performance Erlang Cassandra / Scylla CQL Client
+  repo_url: https://github.com/lpgauth/marina
+- description: Erlang Slack REST API wrapper
+  repo_url: https://github.com/julienXX/slacker
+- description:
+    A library for functional zipper data structures in Erlang. Read more
+    on zippers @ http://ferd.ca/yet-another-article-on-zippers.html
+  repo_url: https://github.com/ferd/zippers
+- description: ChaosMonkey style testing for the BEAM
+  repo_url: https://github.com/ankhers/havoc
+- description: Erlang Action Message Format Library
+  repo_url: https://github.com/abuibrahim/erlang-amf
+- description: A lightweight/efficient cron-like job scheduling library for Erlang.
+  repo_url: https://github.com/zhongwencool/ecron
+- description: rebar3 plugin for building Elixir dependencies with mix
+  repo_url: https://github.com/Supersonido/rebar_mix
+- description: A scalability benchmark suite for Erlang/OTP
+  repo_url: https://github.com/softlab-ntua/bencherl
+- description: Erlang distributed registration and load balancing
+  repo_url: https://github.com/NetComposer/nkdist
+- description:
+    Small library for colored (ANSI) output in Erlang/Elixir/LFE. It's
+    can be useful when you need to create user-friendly command-line applications.
+  repo_url: https://github.com/lk-geimfari/nebula
+- description: Multicast DNS in Erlang/OTP
+  repo_url: https://github.com/shortishly/mdns
+- description: Erlang interface to eBPF
+  repo_url: https://github.com/oskardrums/ebpf
+- description: A lean portable Erlang, no BEAM
+  repo_url: https://github.com/maximk/teeterl
+- description:
+    OUTDATED. Use https://github.com/xirsys/xmedialib instead!!! Erlang
+    library for dealing with rtp/rtcp (STILL IN A VERY EARLY STAGE)
+  repo_url: https://github.com/lemenkov/rtplib
+- description: Let's Encrypt client library for Erlang
+  repo_url: https://github.com/gbour/letsencrypt-erlang
+- description:
+    A custom formatter for the Erlang logger application that turns maps
+    into single line text logs
+  repo_url: https://github.com/ferd/flatlog
+- description: Adopting Erlang service discovery project
+  repo_url: https://github.com/adoptingerlang/service_discovery
+- description: Erlang Amazon WebServices
+  repo_url: https://github.com/x6j8x/erlaws
+- description:
+    "Active development for Erlang: rebuild and reload source/binary files
+    while the VM is running"
+  repo_url: https://github.com/proger/active
+- description: Fast YAML native library for Erlang / Elixir
+  repo_url: https://github.com/processone/fast_yaml
+- description: Erlang port of Haml
+  repo_url: https://github.com/kevsmith/herml
+- description: Handle UNIX signals in Erlang
+  repo_url: https://github.com/jkingsbery/sighandler
+- description: Erlang DBUS implementation (forked from unmaintained erlang-dbus)
+  repo_url: https://github.com/jeanparpaillon/erlang-dbus
+- description: Cache environment variables as Erlang app variables
+  repo_url: https://github.com/heroku/stillir
+- description: "Lol \u2014 Lisp on erLang, and programming is fun again"
+  repo_url: https://github.com/b0oh/lol
+- description: Simply the best logging framework for Erlang
+  repo_url: https://github.com/siberian-fast-food/alogger
+- description:
+    The EUnit lightweight unit testing framework for Erlang - this is the
+    canonical development repository.
+  repo_url: https://github.com/richcarl/eunit
+- description:
+    ErlGuten is a system for high-quality typesetting, written purely in
+    Erlang. This is the canonical repository, representing the latest official release,
+    now under the MIT license. (The link below points to the old, outdated project
+    page.)
+  repo_url: https://github.com/richcarl/erlguten
+- description: An adaptive accrual node failure detection library for Elixir and Erlang
+  repo_url: https://github.com/rabbitmq/aten
+- description: Benchmarking tool to stress real-time protocols
+  repo_url: https://github.com/processone/rtb
+- description: A collection of leex and yecc definitions, along with tests
+  repo_url: https://github.com/jchris/erlang-json-eep-parser
+- description: Erlang Xref Runner (inspired in rebar xref)
+  repo_url: https://github.com/inaka/xref_runner
+- description:
+    The source code of the Erlang Programming book by Francesco Cesarini
+    and Simon Thompson, published by O'Reilly Media
+  repo_url: https://github.com/francescoc/erlangprogramming
+- description: Erlang consumer library for OpenID
+  repo_url: https://github.com/etnt/eopenid
+- description: Streams in Erlang
+  repo_url: https://github.com/epappas/erl_streams
+- description: A framework for building erlang memcached servers.
+  repo_url: https://github.com/dustin/ememcached
+- description: BEAM emulator written in Erlang
+  repo_url: https://github.com/tonyrog/beam
+- description: Erlang/OTP 25+ PostgreSQL client
+  repo_url: https://github.com/shortishly/pgmp
+- description:
+    An Erlang linked-in driver that allows embedding Lua into the Erlang
+    VM
+  repo_url: https://github.com/raycmorgan/erl-lua
+- description: Riak Erlang client using the HTTP interface
+  repo_url: https://github.com/basho/riak-erlang-http-client
+- description: Send collectd statistics from your Erlang applications
+  repo_url: https://github.com/astro/erlang-collectd
+- description: Erlang implementation of the Noise protocol
+  repo_url: https://github.com/aeternity/enoise
+- description: Raft-based, consensus oriented implementation of Mnesia transactions
+  repo_url: https://github.com/rabbitmq/mnevis
+- description: A semantic search tool for Erlang that supports large code-bases.
+  repo_url: https://github.com/klarna-incubator/glass
+- description: Erlang memcached binary protocol client
+  repo_url: https://github.com/jkvor/erlmc
+- description: SSH distribution for erlang
+  repo_url: https://github.com/geocar/inet_ssh_dist
+- description: Intercluster RPC for Erlang and Elixir
+  repo_url: https://github.com/g-andrade/backwater
+- description: Alternative Erlang Pre-Processor
+  repo_url: https://github.com/ErlyORM/aleppo
+- description: erlang riak client pool
+  repo_url: https://github.com/dweldon/riakpool
+- description: A basic CEP package written in erlang
+  repo_url: https://github.com/danmacklin/erlang_cep
+- description: An alternative RPC implementation for Erlang.
+  repo_url: https://github.com/bet365/erpc
+- description: scalable and lightweight OTP Erlang client for memcached
+  repo_url: https://github.com/AdRoll/mero
+- description: A generic batching server for Erlang and Elixir
+  repo_url: https://github.com/rabbitmq/gen-batch-server
+- description: Erlang Image Manipulation Process
+  repo_url: https://github.com/processone/eimp
+- description: Erlang Websockets example using Cowboy
+  repo_url: https://github.com/marcelog/erws
+- description: The BitBucket Erlang Client
+  repo_url: https://github.com/klarna/bec
+- description:
+    You can make MMOs now using html thanks to google. See the link for
+    what it does. The client is pure HTML5, the server here is erlang.
+  repo_url: https://github.com/jimmyrcom/HTML5-Canvas-Old-School-RPG-Map-with-Erlang-Websockets-Chat
+- description: JSON Schema to Erlang Records Generator
+  repo_url: https://github.com/ddossot/jerg
+- description: Next Generation erlguten -- a PDF generation application in Erlang
+  repo_url: https://github.com/CarlWright/NGerlguten
+- description:
+    Ports of some examples in tmm1's amqp library to use the rabbitmq erlang
+    client.
+  repo_url: https://github.com/careo/rabbitmq-erlang-client-examples
+- description: Automatically format Erlang code.
+  repo_url: https://github.com/tsloughter/erl_tidy
+- description:
+    Compile erlang record definitions into modules to convert them to/from
+    json easily.
+  repo_url: https://github.com/lordnull/rec2json
+- description: a redis client library for erlang
+  repo_url: https://github.com/litaocheng/erl-redis
+- description: Collection of utilities for trace-based testing
+  repo_url: https://github.com/klarna/snabbkaffe
+- description: Github API client
+  repo_url: https://github.com/inaka/erlang-github
+- description: Erlang binding for Uber's H3 spatial coordinate library
+  repo_url: https://github.com/helium/erlang-h3
+- description: Gossip middleware in Erlang
+  repo_url: https://github.com/gossiperl/gossiperl
+- description: "[MIRROR] Erlang JWT Library"
+  repo_url: https://github.com/G-Corp/jwerl
+- description: A simple Erlang Template Engine
+  repo_url: https://github.com/filippo/sgte
+- description: Erlang Port Mapper Daemon in Erlang
+  repo_url: https://github.com/erlang/epmd
+- description: "Steamroller: An opinionated Erlang code formatter."
+  repo_url: https://github.com/dtip/steamroller
+- description: Erlang interface to Apple's Bonjour DNS Service Discovery implementation
+  repo_url: https://github.com/benoitc/dnssd_erlang
+- description: Visual Erlang profiler
+  repo_url: https://github.com/artplant/vprof
+- description: Erlang Shellcode snippets
+  repo_url: https://github.com/archaelus/eshellcode
+- description: Apache Dubbo Erlang Implementation.
+  repo_url: https://github.com/apache/dubbo-erlang
+- description: VoltDB Erlang Client Driver
+  repo_url: https://github.com/VoltDB/voltdb-client-erlang
+- description: CAN driver and router
+  repo_url: https://github.com/tonyrog/can
+- description: Implements consistent hashing in Erlang
+  repo_url: https://github.com/sile/hash_ring
+- description: An Erlang script to convert Apple Keynote files to plain text.
+  repo_url: https://github.com/robertoaloi/keynote-to-text
+- description: An ABNF parser generator for Erlang.
+  repo_url: https://github.com/nygge/abnfc
+- description: A side-effect analyzer for Erlang
+  repo_url: https://github.com/mpitid/purity
+- description: Chord DHT implementation in erlang
+  repo_url: https://github.com/mattwilliamson/chordial
+- description: "stdinout_pool: stuff goes in, stuff goes out.  there's never any
+    miscommunication."
+  repo_url: https://github.com/mattsta/erlang-stdinout-pool
+- description: "ESpec: Behaviour driven development framework for Erlang"
+  repo_url: https://github.com/lucaspiller/espec
+- description: SSE handler for Cowboy
+  repo_url: https://github.com/inaka/lasse
+- description: Static typechecker for Erlang
+  repo_url: https://github.com/etylizer/etylizer
+- description: Erlang thrift interface to elastic_search
+  repo_url: https://github.com/dieswaytoofast/erlasticsearch
+- description: An Erlang implementation of the SWIM protocol
+  repo_url: https://github.com/ctbarbour/swim
+- description: Erlang SAML library, SSO and SLO, with Cowboy integration
+  repo_url: https://github.com/arekinath/esaml
+- description: Anycable Erlang WebSocket server
+  repo_url: https://github.com/anycable/erlycable
+- description:
+    Simple erlang OAuth2 client module for any http server framework (Google,
+    Facebook, Yandex, Vkontakte are preconfigured)
+  repo_url: https://github.com/virtan/simple_oauth2
+- description: Erlang utility modules
+  repo_url: https://github.com/saleyn/util
+- description: Erlang C Node to run Lua scripts
+  repo_url: https://github.com/rtraschke/erlang-lua
+- description: In-memory cache Erlang / Elixir library
+  repo_url: https://github.com/processone/cache_tab
+- description: Turn an Erlang/OTP application into a Unikernel image
+  repo_url: https://github.com/OtoloNetworks/rebar3_osv
+- description:
+    High-performance, concurrent, and mutable Cuckoo Filter for Erlang
+    and Elixir
+  repo_url: https://github.com/farhadi/cuckoo_filter
+- description: An (accurate) list of awesome Erlang resources
+  repo_url: https://github.com/erlang-punch/awesome-erlang
+- description: Jump Consistent Hashing Library for Erlang/OTP
+  repo_url: https://github.com/darach/jch-erl
+- description: mc-erl is a server for Minecraft 1.4.7 written in Erlang.
+  repo_url: https://github.com/clonejo/mc-erl
+- description: Nontrivial HTTP proxy server in Erlang
+  repo_url: https://github.com/afiskon/erlang-http-proxy
+- description: Erlang client for the etcd API v3
+  repo_url: https://github.com/zhongwencool/eetcd
+- description: Zstd binding for Erlang
+  repo_url: https://github.com/silviucpp/ezstd
+- description: Erlang FTP Server Framework
+  repo_url: https://github.com/ryancrum/bifrost
+- description: WebDriver implementation in Erlang
+  repo_url: https://github.com/Quviq/webdrv
+- description: erlang-github-api
+  repo_url: https://github.com/onlyshk/erlang-github-api
+- description: QUIC carrier for Erlang Distribution Protocol
+  repo_url: https://github.com/mickel8/quic_dist
+- description: Erlang/OTP application to rate limit resource access
+  repo_url: https://github.com/lambdaclass/throttle
+- description: transit format for erlang
+  repo_url: https://github.com/isaiah/transit-erlang
+- description: On-demand worker pools for parallelizable tasks
+  repo_url: https://github.com/g-andrade/taskforce
+- description:
+    Simhashing for Erlang -- hashing algorithm to find near-duplicates
+    in binary data.
+  repo_url: https://github.com/ferd/simhash
+- description: "Erlang rich-text processing library \U0001F4DC"
+  repo_url: https://github.com/evanmiller/jerome
+- description:
+    WEST (Web/Event-driven Systems Tool) is another messaging tool written
+    in Erlang, that enables the building of messaging-based systems
+  repo_url: https://github.com/cabol/west
+- description: Mirror of Apache CouchDB
+  repo_url: https://github.com/apache/couchdb-couch
+- description: Erlang framework for building applications with Lasp on GRiSP
+  repo_url: https://github.com/achlysproject/achlys
+- description: Erlang Open Sound Control Application
+  repo_url: https://github.com/abuibrahim/erlang-osc
+- description:
+    Sqlite gen_server port for Erlang. Creates, reads and writes to sqlite
+    database.
+  repo_url: https://github.com/ttyerl/sqlite-erlang
+- description: RADIUS protocol stack for Erlang.
+  repo_url: https://github.com/sigscale/radierl
+- description: LL(1) parser generator for Erlang and LFE
+  repo_url: https://github.com/rvirding/spell1
+- description: XML parsing library in Erlang
+  repo_url: https://github.com/paulgray/exml
+- description: YAWS is an erlang web server
+  repo_url: https://github.com/mojombo/yaws
+- description: Parse RSS and Atom feeds
+  repo_url: https://github.com/michaelnisi/feeder
+- description: The guards `in` and `beetween` for Erlang parse_transform
+  repo_url: https://github.com/mad-cocktail/gin
+- description: A comprehensive LFE rebar3 plugin for all your LFE tooling needs
+  repo_url: https://github.com/lfe/rebar3
+- description: Garbage Collection profiler for Erlang
+  repo_url: https://github.com/knutin/gcprof
+- description: kdht is an erlang DHT implementation
+  repo_url: https://github.com/kevinlynx/kdht
+- description: Distributed key generation for Erlang (using pairing based cryptography)
+  repo_url: https://github.com/helium/erlang-dkg
+- description: Erlang library to map your internal port to an external using UNP IGD
+  repo_url: https://github.com/benoitc/nat_upnp
+- description: Generate flamegraphs from Android method trace files
+  repo_url: https://github.com/rschlaikjer/erlang-atrace-flamegraphs
+- description: A plot engine written in erlang.
+  repo_url: https://github.com/psyeugenic/eplot
+- description: Quick Erlang Random Number Generation
+  repo_url: https://github.com/okeuday/quickrand
+- description:
+    Erlang module to convert and send cover data to coveralls.io (or similar).
+    Available as a hex package on https://hex.pm/packages/coveralls.
+  repo_url: https://github.com/markusn/coveralls-erl
+- description: Pragmatic Authentication Library
+  repo_url: https://github.com/manifest/pal
+- description: TOML language erlang parser
+  repo_url: https://github.com/kalta/etoml
+- description: Console Erlang DeBugger
+  repo_url: https://github.com/hachreak/cedb
+- description: metrics library for erlang
+  repo_url: https://github.com/folsom-project/folsom
+- description: A library that simplifies working with the Erlang abstract format.
+  repo_url: https://github.com/efcasado/forms
+- description: Date formatting / parsing library for erlang
+  repo_url: https://github.com/daleharvey/dh_date
+- description: An Erlang implementation of the syslog server protocol
+  repo_url: https://github.com/clofresh/esyslog
+- description: Erlang/Elixir Arbitrary-Precision Arithmetic (EAPA)
+  repo_url: https://github.com/Vonmo/eapa
+- description: Generic turn based game server in Erlang/OTP
+  repo_url: https://github.com/unix1/nuk
+- description: Simple, Fast, Permanent Erlang Worker Pool
+  repo_url: https://github.com/teburd/hottub
+- description: My Erlang/OTP library
+  repo_url: https://github.com/ndpar/erlang
+- description: High performance Erlang metrics library
+  repo_url: https://github.com/machinezone/mzmetrics
+- description: A pub/sub modeled, distributed Erlang logging system
+  repo_url: https://github.com/jkvor/log_roller
+- description:
+    Introduction to Load Testing with Tsung for Erlang User Conference
+    2014
+  repo_url: https://github.com/erszcz/euc-2014
+- description: Erlang VoltDB  server interface
+  repo_url: https://github.com/Eonblast/Erlvolt
+- description: Erlang lazy lists library.
+  repo_url: https://github.com/vjache/erlang-zlists
+- description: LAN discovery and presence in Erlang.
+  repo_url: https://github.com/refuge/rbeacon
+- description: Erlang linter - rebar3 plugin
+  repo_url: https://github.com/project-fifo/rebar3_lint
+- description: Git access in erlang
+  repo_url: https://github.com/maxlapshin/gitty
+- description: Erlang SSH RPC module (experimental)
+  repo_url: https://github.com/jj1bdx/sshrpc
+- description: Let's find the fastest beamer!
+  repo_url: https://github.com/inaka/beam_olympics
+- description: Erlang/OTP Node Monitoring
+  repo_url: https://github.com/hyperthunk/nodewatch
+- description: eXAT - The erlang eXperimental Agent Tool
+  repo_url: https://github.com/gleber/exat
+- description: A WxErlang application to generate slidesets.
+  repo_url: https://github.com/ferd/slider
+- description: Generic on-disk persistent queue implementation for Erlang
+  repo_url: https://github.com/emqx/replayq
+- description: erlang interface to kinesis client library via MultiLangDaemon
+  repo_url: https://github.com/AdRoll/erlmld
+- description: Erlang Minecraft server
+  repo_url: https://github.com/ScottBrooks/Erlcraft
+- description: Open Telecom Platform Command Language a.k.a. Tcl-Flavored Erlang
+  repo_url: https://github.com/otpcl/otpcl
+- description: AMQP erlang client wrapper library using the RabbitMQ libraries
+  repo_url: https://github.com/muxspace/bunny_farm
+- description: Shirasu.ws is a WebSocket server framework based on Misultin and Erlang/OTP
+  repo_url: https://github.com/michilu/shirasu
+- description: A mocking library for Erlang
+  repo_url: https://github.com/klajo/mockgyver
+- description: HPACK Implementation for Erlang
+  repo_url: https://github.com/joedevivo/hpack
+- description:
+    "\U0001F4AC An Erlang's ChicagoBoss websockets team chat, using Cowboy\
+    \ server and PostgreSQL"
+  repo_url: https://github.com/joaomilho/apalachin
+- description: A Google Protobuf implementation with enif (Erlang nif)
+  repo_url: https://github.com/jinganix/enif_protobuf
+- description: Use Erlang typespecs in the runtime
+  repo_url: https://github.com/ieQu1/typerefl
+- description: Error and stack trace pretty printers for Erlang
+  repo_url: https://github.com/eproxus/pretty_errors
+- description: Erlang data transformation/validation library
+  repo_url: https://github.com/egobrain/emodel
+- description: Erlang Kinesis Client
+  repo_url: https://github.com/AdRoll/kinetic
+- description: zab propotocol implement by erlang
+  repo_url: https://github.com/xinmingyao/zab_engine
+- description: Naive Parallel Prime Numbers Sieve
+  repo_url: https://github.com/videlalvaro/erlang-prime-sieve
+- description: DirBuster successor in Erlang
+  repo_url: https://github.com/silentsignal/DirBustErl
+- description: erlang dhcp server
+  repo_url: https://github.com/project-fifo/dhcp
+- description: Brings Elixir's pipe (|>) and with to Erlang world
+  repo_url: https://github.com/oltarasenko/epipe
+- description: an Erlang library for interacting with Unix processes
+  repo_url: https://github.com/msantos/prx
+- description: Fast and simple acceptor pool for Erlang
+  repo_url: https://github.com/jeremey/swarm
+- description: convert between record and proplist
+  repo_url: https://github.com/hio/erlang-record_info
+- description: Erlang/OTP DNS server
+  repo_url: https://github.com/hcvst/erlang-dns
+- description: Visual Erlang development
+  repo_url: https://github.com/haljin/erlesy
+- description: Fast Erlang JSON data retrieval and updates via javascript-like notation
+  repo_url: https://github.com/GeneStevens/jsonpath
+- description: Lightweight Erlang validator based on LIVR specification
+  repo_url: https://github.com/erlangbureau/liver
+- description: Erlang client library for Neo4J's REST API
+  repo_url: https://github.com/dmitriid/neo4j-erlang
+- description: Operate at the speed of (Erlang) BEAM with BeamParticle
+  repo_url: https://github.com/beamparticle/beamparticle
+- description: Generic BERT-RPC server in Erlang
+  repo_url: https://github.com/a13x/aberth
+- description: Totally asynchronous implementation of Shadowsocks in Erlang
+  repo_url: https://github.com/Yongke/shadowsocks-erlang
+- description: An Eventual Leader Election Library for Erlang
+  repo_url: https://github.com/sile/evel
+- description: Extended code coverage metrics for Erlang.
+  repo_url: https://github.com/ramsay-t/Smother
+- description: round-robin load balancer for Erlang processes
+  repo_url: https://github.com/odo/revolver
+- description: Erlang GTK binding
+  repo_url: https://github.com/massemanet/gtknode
+- description: Erlang library to build WebSocket clients and servers
+  repo_url: https://github.com/madtrick/wsock
+- description: Command Line Interface Framework for Erlang
+  repo_url: https://github.com/jvantuyl/erlctl
+- description:
+    An Erlang/OTP library for reading and updating deeply nested immutable
+    data.
+  repo_url: https://github.com/jkrukoff/optic
+- description: Four in a Row - A game to learn Erlang
+  repo_url: https://github.com/inaka/fiar
+- description:
+    An Erlang library for communicating with the Twilio API and generating
+    TwiML
+  repo_url: https://github.com/huffman/twilio_erlang
+- description: Cron-like scheduler for Erlang
+  repo_url: https://github.com/fra/ecron
+- description: OpenFlow Protocol Library for Erlang
+  repo_url: https://github.com/FlowForwarding/of_protocol
+- description: Erlang flavored by Some ML
+  repo_url: https://github.com/etnt/eml
+- description: Erlang/Rserve communication interface
+  repo_url: https://github.com/del/erserve
+- description: A modbus RTU and TCP driver for erlang
+  repo_url: https://github.com/ctennis/erlang-modbus
+- description: Lightweight tracing, debugging and profiling utility for Erlang
+  repo_url: https://github.com/chrzaszcz/erlang_doctor
+- description:
+    Library containing map/reduce utility functions for Riak implemented
+    in erlang.
+  repo_url: https://github.com/whitenode/riak_mapreduce_utils
+- description: Erlang SMTP and POP3 server code.
+  repo_url: https://github.com/tonyg/erlang-smtp
+- description:
+    Parse_transform for erlang which adds functions help/{0,1,2} showing
+    edoc information about module and exported functions.
+  repo_url: https://github.com/stolen/autohelp
+- description:
+    Physics engine for graph drawing written in erlang for use in wxErlang
+    or standalone.
+  repo_url: https://github.com/psyeugenic/fgraph
+- description: A small http server for erlang.
+  repo_url: https://github.com/noss/iserve
+- description: Asciidoc for Erlang.
+  repo_url: https://github.com/ninenines/asciideck
+- description: Erlang binding to libvirt virtualization API
+  repo_url: https://github.com/msantos/erlang-libvirt
+- description: An IRC client library for Erlang
+  repo_url: https://github.com/mazenharake/eirc
+- description: Erlang bindings for etcd key value store
+  repo_url: https://github.com/marshall-lee/etcd.erl
+- description: "*OUTDATED* Erlang plugin for the XCode 3 IDE"
+  repo_url: https://github.com/JonGretar/erlangxcode
+- description:
+    File conversion and export support for graphs created using the Erlang
+    digraph module.
+  repo_url: https://github.com/jkrukoff/digraph_export
+- description: Lists of key-value pairs (decoded JSON) in Erlang
+  repo_url: https://github.com/jcomellas/kvlists
+- description: Generic Zipper implementation in Erlang
+  repo_url: https://github.com/inaka/zipper
+- description: The Erlang client for Cassandra 1.2+ binary protocol
+  repo_url: https://github.com/iamaleksey/seestar
+- description: Heroku Erlang VM Monitoring library
+  repo_url: https://github.com/heroku/ehmon
+- description: ORM implementation in Erlang
+  repo_url: https://github.com/erldb/erldb
+- description: Windows Azure Erlang bindings
+  repo_url: https://github.com/dkataskin/erlazure
+- description: Mirror of Apache CouchDB Mango
+  repo_url: https://github.com/apache/couchdb-mango
+- description:
+    socks4, socks4a, socks5 proxy, encrypted, derived from yueyoum/make-proxy.
+    Across the Great Wall we can reach every corner in the world.
+  repo_url: https://github.com/andelf/erlang-proxy
+- description: Clone of MS Notepad using Erlang (wxWidgets)
+  repo_url: https://github.com/aaronps/enotepad
+- description: "IDEA EGTM: Erlang binding for GT.M database engine"
+  repo_url: https://github.com/ztmr/egtm
+- description:
+    This is a clone of the Sourceforge project repository of the same name.
+    ERESYE means ERlang Expert SYstem Engine. It is a library to write expert systems
+    and rule processing engines using the Erlang programming language. It allows to
+    create multiple engines, each one with its own facts and rules to be processed.
+  repo_url: https://github.com/TypedLambda/eresye
+- description: Forth Flavoured Erlang
+  repo_url: https://github.com/tonyrog/ffe
+- description: Erlang library to create and connect an arbitrary cluster of nodes
+  repo_url: https://github.com/stritzinger/braid
+- description: Erlang AWS DynamoDB client
+  repo_url: https://github.com/SemanticSugar/dinerl
+- description: Erlang Performance Measurements
+  repo_url: https://github.com/okeuday/erlbench
+- description: a library to handle nested Erlang maps
+  repo_url: https://github.com/odo/nested
+- description: demo of websocket service with ChicagoBoss, sharing a realtime drawing
+  repo_url: https://github.com/mihawk/draw
+- description: LaunchDarkly Server-Side SDK for Erlang/Elixir
+  repo_url: https://github.com/launchdarkly/erlang-server-sdk
+- description: Erlang client for the Sphinx search engine
+  repo_url: https://github.com/kevsmith/giza
+- description: Distributed trace-based test framework with fault injection
+  repo_url: https://github.com/kafka4beam/snabbkaffe
+- description: An Erlang implementation of the Chord distributed hash lookup protocol
+  repo_url: https://github.com/jashmenn/chordjerl
+- description: Erlang trading game engine
+  repo_url: https://github.com/jadeallenx/parque
+- description: ICMP protocol implementation for Erlang without NIFs
+  repo_url: https://github.com/hauleth/gen_icmp
+- description: Vertebra Erlang Pieces
+  repo_url: https://github.com/engineyard/vertebra-erl
+- description: HOCON configuration Parser for Erlang/OTP
+  repo_url: https://github.com/emqx/hocon
+- description: a set of erlang utilities for the Olson timezone database files
+  repo_url: https://github.com/drfloob/ezic
+- description: An experimental erlang HTTP client wrapping reqwest
+  repo_url: https://github.com/dlesl/erqwest
+- description: A library for declaration and discovery of telemetry events
+  repo_url: https://github.com/beam-telemetry/telemetry_registry
+- description: Erlang OTP Process Pool
+  repo_url: https://github.com/aberman/pooly
+- description: helper library for making Erlang libraries logging framework agnostic
+  repo_url: https://github.com/tolbrino/hut
+- description:
+    A very simple example of implementing a structured P2P network (DHT)
+    in Erlang.
+  repo_url: https://github.com/SomeKay/erlang-dht
+- description: Erlang web playground http://tryerl.seriyps.ru/
+  repo_url: https://github.com/seriyps/eplaypen
+- description: Erlang Term Info
+  repo_url: https://github.com/okeuday/erlang_term
+- description: Erlang postgresql driver
+  repo_url: https://github.com/noss/pgsql
+- description: Portable native Erlang raw socket interface using pcap
+  repo_url: https://github.com/msantos/ewpcap
+- description: Erlang multicast DNS and DNS-SD (DNS Service Discovery)
+  repo_url: https://github.com/msantos/emdns
+- description: Reliable protocol over UDP for Erlang
+  repo_url: https://github.com/loguntsov/reliable_udp
+- description: The Erlang Mail application or Email for short
+  repo_url: https://github.com/kivra/email
+- description: SemVer 2.0  parsing, matching, and comparisons for Erlang
+  repo_url: https://github.com/jelly-beam/verl
+- description:
+    Wrapper around Erlang ssh module to make it easier to add an sshd to
+    any node
+  repo_url: https://github.com/ivanos/erl_sshd
+- description: Open Source GPS Tracking System
+  repo_url: https://github.com/erlymon/erlymon
+- description: Code for the ErlangCamp teaching conference
+  repo_url: https://github.com/erlware/erlang-camp
+- description:
+    Learn Erlang through this set of challenges. An interactive system
+    for getting to know Erlang.
+  repo_url: https://github.com/eriksoe/ErlangQuest
+- description: The freshest Erlang web framework
+  repo_url: https://github.com/devinus/fresh
+- description:
+    Code samples from the Handbook of Neuroevolution through Erlang in
+    both Erlang and Elixir
+  repo_url: https://github.com/coreyhaines/handbook-of-neuroevolution
+- description:
+    ":rabbit: :wolf: World simulation of Wolves, Rabbits and Carrots in
+    Erlang."
+  repo_url: https://github.com/afronski/wolves-and-rabbits-world-simulation
+- description: Fast, StAX-like XML Parser for BEAM Languages
+  repo_url: https://github.com/zadean/yaccety_sax
+- description: Magic thing to make old Erlang stuff work in IPv6-only networks
+  repo_url: https://github.com/yandex/inet64_tcp
+- description: Embedded Erlang (EEl)
+  repo_url: https://github.com/williamthome/eel
+- description: Erlang RPC server framework
+  repo_url: https://github.com/travelping/hello
+- description: A Erlang binding to the systemd journal C API
+  repo_url: https://github.com/systemd/ejournald
+- description: Erlang distribution as HTTP protocol upgrade
+  repo_url: https://github.com/stolen/webdist
+- description: Function chaining in Erlang
+  repo_url: https://github.com/sasa1977/fun_chain
+- description: Erlang filesystem event watcher frontend for fswatch
+  repo_url: https://github.com/proger/erlfsmon
+- description: An erlang binding for mesos - http://mesos.apache.org/
+  repo_url: https://github.com/mdevilliers/erlang-mesos
+- description: Parsec-style parsing for Erlang
+  repo_url: https://github.com/massung/parsec
+- description: experimenting with CRDTs in erlang
+  repo_url: https://github.com/Licenser/ecrdt
+- description:
+    Small service for snapshotting eleveldb without stopping the Erlang
+    node
+  repo_url: https://github.com/klarna/leveldb_manager
+- description: Erlang web shell--program erlang on web
+  repo_url: https://github.com/killme2008/erlwsh
+- description: Erlang Airbrake notification client
+  repo_url: https://github.com/kenpratt/erlbrake
+- description: Resilient Kafka Producer for Erlang/Elixir
+  repo_url: https://github.com/kafka4beam/wolff
+- description: Meta Testing Utilities for common_test
+  repo_url: https://github.com/inaka/katana-test
+- description: An Erlang pool of pools.
+  repo_url: https://github.com/g-andrade/maestro
+- description:
+    "\u5361\u724C\u6E38\u620F\u300A\u840C\u517D\u5802\u300B\u5B8C\u6574\
+    \u670D\u52A1\u5668erlang\u6E90\u7801"
+  repo_url: https://github.com/dolotech/erlang_server
+- description: A consistent hashing library in Erlang.
+  repo_url: https://github.com/carlosgaldino/concha
+- description: crontab for Erlang
+  repo_url: https://github.com/b3rnie/crontab
+- description: 2048 game  base on pure erlang
+  repo_url: https://github.com/zhongwencool/erlang-2048-game
+- description: EBILS - Erlang Binary Lightweight Search
+  repo_url: https://github.com/zgbjgg/ebils
+- description: Erlang Virtual Filesystem
+  repo_url: https://github.com/yrashk/evfs
+- description: Search Engine in Erlang
+  repo_url: https://github.com/tmaciejewski/see
+- description: A little Erlang library for executing task dependency graphs
+  repo_url: https://github.com/rkallos/wrek
+- description: Erlang sendmail interface
+  repo_url: https://github.com/richcarl/sendmail
+- description: An OpenFlow controller written in pure erlang
+  repo_url: https://github.com/renatoaguiar/erlang-openflow
+- description: Erlang InfluxDB UDP writer
+  repo_url: https://github.com/palkan/influx_udp
+- description: Utilities for interacting with decoded JSON in erlang
+  repo_url: https://github.com/nalundgaard/jsn
+- description: SAX style broken HTML parser in Erlang
+  repo_url: https://github.com/massemanet/trane
+- description: High-Performance Erlang Cache Compiler
+  repo_url: https://github.com/lpgauth/foil
+- description:
+    Fork of Will Glozer's erlang postgresql pool server, so it can be maintained
+    and polished.
+  repo_url: https://github.com/josephwecker/epgsql_pool
+- description: JSON library for Erlang on top of jsx
+  repo_url: https://github.com/jonasrichard/ejson
+- description: Porting the AlgoTrader (Java) code to Erlang  [Abandoned]
+  repo_url: https://github.com/henry-hz/erlang-trader
+- description: "SQL API implementation of an erlang program: mimic a MySQL server"
+  repo_url: https://github.com/flussonic/sqlapi
+- description: "Erlang :: Exponential moving average library"
+  repo_url: https://github.com/EchoTeam/mavg
+- description: Raft reference implementation for Erlang
+  repo_url: https://github.com/djui/eraft
+- description: Erlang/OTP application for accessing Amazon S3
+  repo_url: https://github.com/cstar/erls3
+- description: An Erlang client for Riemann.
+  repo_url: https://github.com/tel/zeta
+- description: '"Least surprise" Erlang supervisor API'
+  repo_url: https://github.com/spawngrid/esupervisor
+- description: Code samples from Introducing Erlang, second edition
+  repo_url: https://github.com/simonstl/introducing-erlang-2nd
+- description: Html5 websocket protocol server for Erlang based application server
+  repo_url: https://github.com/sendtopms/Erlwebsockserver
+- description: Simple Erlang  Key/Value framework
+  repo_url: https://github.com/refuge/rkvs
+- description: Erlang irc client library
+  repo_url: https://github.com/OtpChatBot/irc_lib
+- description: ":pencil: A design-first Erlang REST Framework."
+  repo_url: https://github.com/nomasystems/erf
+- description: Erlang Unix socket interface
+  repo_url: https://github.com/msantos/gen_unix
+- description: Generic TCP Balancer for Erlang
+  repo_url: https://github.com/mdaguete/tcpbalance
+- description: JSON Web Token implementation in Erlang
+  repo_url: https://github.com/marianoguerra/jwt-erl
+- description: Light Weight Event System Erlang library
+  repo_url: https://github.com/lwes/lwes-erlang
+- description: Erlang implementation of Conway's Game of Life
+  repo_url: https://github.com/lehoff/egol
+- description: An Erlang NIF for the WiringPi library for the Raspberry Pi
+  repo_url: https://github.com/klajo/wpi
+- description: Bittorrent Tracker written in Erlang
+  repo_url: https://github.com/hukl/Bitturret
+- description: A minimal in-memory distributed master-less document database
+  repo_url: https://github.com/hachreak/minidb
+- description: Erlang Connection/Client Pool Library
+  repo_url: https://github.com/emqx/ecpool
+- description: Alternative application controller for Erlang/OTP
+  repo_url: https://github.com/aeternity/app_ctrl
+- description: Documentation of Erlang Abstract Format
+  repo_url: https://github.com/zuiderkwast/erlang_abstract_format
+- description: skeleton for thrift services in erlang
+  repo_url: https://github.com/toddlipcon/thrift_erl_skel
+- description: Simple Erlang library to run SQL migrations
+  repo_url: https://github.com/spawngrid/erlang-sql-migrations
+- description: task model for Erlang
+  repo_url: https://github.com/redink/task
+- description: Erlang CSV Parser
+  repo_url: https://github.com/rcouch/ecsv
+- description: An Erlang GraphicsMagick wrapper
+  repo_url: https://github.com/nuex/erl_gm
+- description: Erlang View Server for CouchDB
+  repo_url: https://github.com/mmcdanie/erlview
+- description:
+    an experimental programming language for the erlang vm that is actually
+    useful
+  repo_url: https://github.com/marianoguerra/interfix
+- description: An Erlang Macaroons library compatible with libmacaroons
+  repo_url: https://github.com/kzemek/macaroons
+- description: JSON to erlang record
+  repo_url: https://github.com/justinkirby/json_rec
+- description: Erlang Metric Logger
+  repo_url: https://github.com/justinkirby/emetric
+- description: Erlang/OTP sample projects
+  repo_url: https://github.com/irr/erl-tutorials
+- description: InfluxDB client for Erlang
+  repo_url: https://github.com/gossiperl/erflux
+- description: HOTP and TOTP algorithms in Erlang.
+  repo_url: https://github.com/gearnode/erl-hotp
+- description: Serverless Erlang runtime for AWS Lambda Service
+  repo_url: https://github.com/fogfish/serverless
+- description: BEAM Jupyter Kernels Tool
+  repo_url: https://github.com/filmor/ierl
+- description: An Erlang library wrapping AES-GCM (AEAD) crypto in a Fernet-like interface
+  repo_url: https://github.com/ferd/hairnet
+- description: This code implenets decorators for erlang.
+  repo_url: https://github.com/egobrain/erlang_decorators
+- description: Concurrent Lists in Erlang
+  repo_url: https://github.com/dustin/erl-conc
+- description: An Erlang INI parser
+  repo_url: https://github.com/devinus/zucchini
+- description: Minimal AWS S3 client for Erlang
+  repo_url: https://github.com/chef/mini_s3
+- description: Erlang Client library for gRPC
+  repo_url: https://github.com/Bluehouse-Technology/grpc_client
+- description: a fixed size LRU cache.
+  repo_url: https://github.com/barrel-db/erlang-lru
+- description: Hartmann pipes in Erlang
+  repo_url: https://github.com/vladdu/erl-pipes
+- description: An erlang interface to rrdtool
+  repo_url: https://github.com/Vagabond/erlang-rrdtool
+- description: ":neckbeard: Erlang skeleton with cowboy and common test"
+  repo_url: https://github.com/unbalancedparentheses/erlskeletor_cowboy
+- description: Erlang PubNub API
+  repo_url: https://github.com/tsloughter/epubnub
+- description: erlang driver for rethinkdb
+  repo_url: https://github.com/taybin/lethink
+- description: Erlang Distribution inside Kubernetes Cluster
+  repo_url: https://github.com/seniverse/kube_dist
+- description: Google Cloud Messaging API for Ejabberd (PUSH Messages)
+  repo_url: https://github.com/mrDoctorWho/ejabberd_mod_gcm
+- description: Library validates mobile phone number for country
+  repo_url: https://github.com/marinakr/libphonenumber_erlang
+- description: edn format parser for the erlang platform
+  repo_url: https://github.com/marianoguerra/erldn
+- description: A native Erlang IPMI library.
+  repo_url: https://github.com/lindenbaum/eipmi
+- description:
+    iota (Inter-dependency Objective Testing Apparatus) - a tool to enforce
+    clean separation of responsibilities in Erlang code
+  repo_url: https://github.com/jpgneves/iota
+- description: Erlang syslog logger
+  repo_url: https://github.com/jkvor/erlang_syslog
+- description:
+    Set of helpers functions for more convenient functional programming
+    in Erlang
+  repo_url: https://github.com/habibutsu/erlz
+- description: An evented, streaming json parser for Erlang.
+  repo_url: https://github.com/Damienkatz/json_stream_parse
+- description: erlang prototype of scuttlebutt protocol
+  repo_url: https://github.com/cmoid/erlbutt
+- description: minimal erlang/OTP rebar template
+  repo_url: https://github.com/cloudhead/erlapp.template
+- description: Erlang API for FoundationDB
+  repo_url: https://github.com/apache/couchdb-erlfdb
+- description: erlang implementation of gearman server
+  repo_url: https://github.com/antoniogarrote/egearmand-server
+- description: Erlang OpenShift2 Cartridge
+  repo_url: https://github.com/wozniakjan/erlcart
+- description: SOCKS4, SOCKS4a and SOCKS5 protocols implementation in Erlang/OTP.
+  repo_url: https://github.com/surik/tunnerl
+- description:
+    Erlang Parse Transforms Including Fold (MapReduce) comprehension, Elixir-like
+    Pipeline, and default function arguments
+  repo_url: https://github.com/saleyn/etran
+- description: An Ansible module to interact with Erlang nodes via Erlang RPC
+  repo_url: https://github.com/robertoaloi/ansible-nodetool
+- description: Erlang file monitoring service
+  repo_url: https://github.com/richcarl/file_monitor
+- description: Erlang library to create standalone modules from anonymous functions
+  repo_url: https://github.com/rabbitmq/horus
+- description: Iris Erlang binding
+  repo_url: https://github.com/project-iris/iris-erl
+- description:
+    Sockerl is an  advanced Erlang/Elixir socket framework for TCP protocols
+    and provides fast, useful and easy-to-use API for implementing servers, clients
+    and client connection pools.
+  repo_url: https://github.com/pouriya/sockerl
+- description: JSONPath Erlang implementation
+  repo_url: https://github.com/ostrovok-tech/ejsonpath
+- description: Matching JSON nodes in Erlang
+  repo_url: https://github.com/nmichel/ejpet
+- description: Just a game server template for Erlang/OTP.
+  repo_url: https://github.com/Naupio/pigame
+- description: Master thesis on developing a static type checker for Erlang
+  repo_url: https://github.com/nachivpn/mt
+- description: Erlang interface for Tokyo Tyrant
+  repo_url: https://github.com/mccoy/medici
+- description: Erlang interface to the stripe.com API
+  repo_url: https://github.com/mattsta/stripe-erlang
+- description: An Erlang cache where every stored item is its own process.
+  repo_url: https://github.com/mattsta/pcache
+- description: Erlang client for the Twitter Streaming API
+  repo_url: https://github.com/lucaspiller/twerl
+- description: Kafka REST proxy
+  repo_url: https://github.com/klarna/kastle
+- description: A simple Riemann client written in Erlang.
+  repo_url: https://github.com/katja-beam/katja
+- description: Erlang MySQL driver
+  repo_url: https://github.com/jkvor/emysql
+- description: my   repos for erlang test code .
+  repo_url: https://github.com/jixiuf/helloerlang
+- description:
+    Creating a mutant army of self-discovering Raspberry Pi Erlang robots
+    for world domination or something...
+  repo_url: https://github.com/hypernumbers/erlang-wtd
+- description: Arduino handler for Erlang/OTP Application.
+  repo_url: https://github.com/hiroeorz/arduino-erlang
+- description: Priority Task Queue for Erlang
+  repo_url: https://github.com/hamidreza-s/Queuesk
+- description: Erlang convenience wrapper around git executable
+  repo_url: https://github.com/gleber/erlgit
+- description: Code from the book "Learn You Some Erlang For Great Good!"
+  repo_url: https://github.com/FranklinChen/learn-you-some-erlang
+- description: Modern, performant, and extensible, Erlang in-memory cache
+  repo_url: https://github.com/esl/segmented_cache
+- description: Heatmap and flamegraph sampling profiler for Erlang
+  repo_url: https://github.com/ebegumisa/flame_prof
+- description: Simple example Erlang REST API
+  repo_url: https://github.com/dronowar/erlang_rest_api
+- description: Rackspace / Open Stack Cloud Files Erlang Client
+  repo_url: https://github.com/ddossot/cferl
+- description: Generic XMPP client framework for Erlang
+  repo_url: https://github.com/bokner/gen_client
+- description: CIDR erlang library
+  repo_url: https://github.com/benoitc/inet_cidr
+- description: An Erlang library to provide AWS credentials
+  repo_url: https://github.com/aws-beam/aws_credentials
+- description: An Erlang OTP application for load shedding
+  repo_url: https://github.com/AdRoll/spillway
+- description: MQTT library for Erlang *JUST USABLE*
+  repo_url: https://github.com/squaremo/erlmqtt
+- description: Data validation library for Erlang
+  repo_url: https://github.com/spawngrid/validaterl
+- description:
+    erlang port of shadowsocks (The next generation is elixir  http://github.com/paulzql/shadowsocks-ex
+    )
+  repo_url: https://github.com/paulzql/shadowsocks-erlang
+- description: An Erlang node connection manager.
+  repo_url: https://github.com/ostinelli/cowbell
+- description: Rollbar client in Erlang
+  repo_url: https://github.com/omarkj/erollbar
+- description:
+    This software is no longer maintained. For archive/reference use only.
+    -- Tiny Mersenne Twister (TinyMT) for Erlang
+  repo_url: https://github.com/jj1bdx/tinymt-erlang
+- description: a websocket server in erlang
+  repo_url: https://github.com/hpyhacking/webtekcos
+- description: Erlang GraphQL implementation
+  repo_url: https://github.com/graphql-erlang/graphql
+- description: Various Erlang related benchmarks
+  repo_url: https://github.com/gar1t/erlang-bench
+- description: Synchronize Erlang/OTP releases to remote nodes
+  repo_url: https://github.com/fhunleth/relsync
+- description: Partial application of Erlang functions
+  repo_url: https://github.com/erszcz/pa
+- description: An Erlang decimal arithmetic library.
+  repo_url: https://github.com/egobrain/decimal
+- description: The course material for a hands-on Erlang tutorial held in 2018
+  repo_url: https://github.com/cursorinsight/erlang-tutorial
+- description: A wamp.ws client written in erlang
+  repo_url: https://github.com/bwegh/awre
+- description: Erlang SWF (Flash) file analysis toolkit
+  repo_url: https://github.com/bef/erlswf
+- description: NeHe OpenGL tutorials ported to Erlang
+  repo_url: https://github.com/asceth/nehe_erlang
+- description: An implementation of Norvig's sudoku solver in Erlang
+  repo_url: https://github.com/apauley/sudoku-in-erlang
+- description: Modular, RFC 2616 compliant HTTP/1.1 server and client
+  repo_url: https://github.com/abuibrahim/erlang-http
+- description: a high level json library for erlang (17.0+)
+  repo_url: https://github.com/talentdeficit/json
+- description: Erlang reltool utility functionality application
+  repo_url: https://github.com/okeuday/reltool_util
+- description: Erlang Memory Mapped Files
+  repo_url: https://github.com/saleyn/emmap
+- description:
+    "\U0001F9CA \u0427\u0438\u0441\u0442\u0430 \u0441\u0438\u0441\u0442\
+    \u0435\u043C\u0430 \u0437 \u0432\u0441\u0435\u0441\u0432\u0456\u0442\u0430\u043C\
+    \u0438"
+  repo_url: https://github.com/groupoid/henk
+- description: The Erlang RADIUS server and NetFlow v5, v9 collector
+  repo_url: https://github.com/ates/netspire-core
+- description: Process balancer and distributor for Erlang/OTP
+  repo_url: https://github.com/altenwald/forseti
+- description: Fast erlang csv reader
+  repo_url: https://github.com/maxlapshin/csv_reader
+- description: Code for my tutorial on howistart.org
+  repo_url: https://github.com/ferd/howistart-erlang1-code
+- description: A web framework for Gleam, Midas makes shiny things.
+  repo_url: https://github.com/midas-framework/midas
+- description: Erlang implementation of  WAND/max_score TOP-K retrieval algo.
+  repo_url: https://github.com/wardbekker/search
+- description: "Steamroller: An opinionated Erlang code formatter."
+  repo_url: https://github.com/old-reliable/steamroller
+- description: JSONPath Erlang implementation
+  repo_url: https://github.com/ostrovok-team/ejsonpath
+- description: A sample Erlang blockchain in less than 500 lines of code
+  repo_url: https://github.com/novalabsxyz/BEAMCoin
+- description: "\u2623\u26AB\u26AB SPA Imageboad on WebSockets written on Erlang"
+  repo_url: https://github.com/m-2k/erlach
+- description: Simple Paperboy-themed PubSub
+  repo_url: https://github.com/inaka/canillita
+- description: Open Pusher server implementation compatible with Pusher libraries.
+  repo_url: https://github.com/edgurgel/poxa-erlang
+- description: sieve is a simple TCP routing proxy (layer 7) in erlang
+  repo_url: https://github.com/benoitc/sieve
+- description: A type-checker for Erlang
+  repo_url: https://github.com/WhatsApp/eqwalizer
+- description: Erlang/Elixir wrapper for RocksDB
+  repo_url: https://github.com/Vonmo/rocker
+- description:
+    A distributed storage system which uses distributed Erlang strongly
+    influenced by http://dawsdesign.com/drupal/erlfs
+  repo_url: https://github.com/auser/erlfs
+- description: MQTT Broker - for IoT, DIY, pubsub applications and more
+  repo_url: https://github.com/gbour/wave
+- description: Erlang Services Management
+  repo_url: https://github.com/NetComposer/nkservice
+- description: Erlang BGP daemon
+  repo_url: https://github.com/ThomasHabets/eggpd
+- description: Erlang game_server
+  repo_url: https://github.com/sy-vendor/game_server
+- description: Unicode utf-8 functions for Erlang
+  repo_url: https://github.com/rambocoder/unistring
+- description: OpenId Connect client library in Erlang
+  repo_url: https://github.com/Erlang-Openid/oidcc
+- description:
+    Timer module for Erlang that makes it easy to abstact time out of the
+    tests.
+  repo_url: https://github.com/lehoff/chronos
+- description: Erlang logging for OTP applications flog and clog
+  repo_url: https://github.com/zavr/flog
+- description: Identify browsers and OSes from user agent strings, in Erlang
+  repo_url: https://github.com/ferd/useragent
+- description: A comprehensive LFE rebar3 plugin for all your LFE tooling needs
+  repo_url: https://github.com/lfe/rebar3_lfe
+- description:
+    Scientific Computing on the Erlang VM - An LFE Wrapper Library for
+    SciPy, NumPy, etc.
+  repo_url: https://github.com/lfex/lsci
+- description: Program which builds cscope database for erlang files
+  repo_url: https://github.com/syed/erlcscope
+- description: erlang node auto-discovery on EC2
+  repo_url: https://github.com/cstar/ec2nodefinder
+- description: NIF powered global counters for erlang
+  repo_url: https://github.com/andytill/oneup
+- description: A Google Protobuf implementation with enif (Erlang nif).
+  repo_url: https://github.com/jg513/enif_protobuf
+- description: hlc - Hybrid Logical Clock in Erlang.
+  repo_url: https://github.com/barrel-db/hlc
+- description: The BitBucket Erlang Client
+  repo_url: https://github.com/klarna-incubator/bec
+- description: Erlang library to use binaries as strings
+  repo_url: https://github.com/jcomellas/bstr
+- description: General balanced binary Merkle trees for Erlang
+  repo_url: https://github.com/KrzysiekJ/gb_merkle_trees
+- description: RPC-over-HTTP system for Erlang supporting JSON, XML and Protocol Buffers
+  repo_url: https://github.com/alavrik/piqi-rpc
+- description:
+    A simple Erlang tool to automatically migrate Mnesia databases between
+    versions
+  repo_url: https://github.com/yoonka/migresia
+- description: An online implementation of the Diplomacy board game in Erlang.
+  repo_url: https://github.com/treacheroustalks/Treacherous-Talks
+- description: Stay in sync in rebarized erlang projects
+  repo_url: https://github.com/tex/ssync
+- description: Extensible HTTP Client for  Erlang
+  repo_url: https://github.com/seriyps/xhttpc
+- description: An erlang powered image store using amazon s3.
+  repo_url: https://github.com/ngerakines/s3imagehost
+- description: Erlang, in-memory distributable cache
+  repo_url: https://github.com/jr0senblum/jc
+- description: GRPC client for Erlang
+  repo_url: https://github.com/palkan/erlgrpc
+- description: Open Tracing Toolkit for ERlang
+  repo_url: https://github.com/opentracing-contrib/opentracing-erlang
+- description: Transform Erlang or Elixir data into Gleam data
+  repo_url: https://github.com/rjdellecese/gleam_decode
+- description:
+    Bondy is an open source, always-on and scalable application networking
+    platform for modern architectures. It is an all-in-one event and service mesh
+    that offers both Publish-Subscribe (PubSub) and routed Remote Procedure Calls
+    (RPC). Bondy implements the open Web Application Messaging Protocol (WAMP) and
+    is written in Erlang.
+  repo_url: https://github.com/Leapsight/bondy
+- description: "\u2B55 N2O: Most Powerful Erlang Web Framework"
+  repo_url: https://github.com/synrc/n2o
+- description: Basic project using rebar, to demonstrate upgrades and packaging etc
+  repo_url: https://github.com/RJ/erlang_rebar_example_project
+- description: Apache Kafka producer/consumer for erlang
+  repo_url: https://github.com/HernanRivasAcosta/kafkerl
+- description: A Reliable-UDP Library for erlang
+  repo_url: https://github.com/hbcrhythm/kcp_erlang
+- description: Configuration reload manager for Erlang applications
+  repo_url: https://github.com/EchoTeam/corman
+- description: OpenTelemetry instrumentation for Erlang & Elixir
+  repo_url: https://github.com/open-telemetry/opentelemetry-erlang-contrib
+- description: Function utilities for Erlang
+  repo_url: https://github.com/reiddraper/fn
+- description: NSQ Client for erlang
+  repo_url: https://github.com/project-fifo/ensq
+- description: an Erlang memcached client application
+  repo_url: https://github.com/echou/memcached-client
+- description: "\U0001F4A0 LDAP: Erlang Server"
+  repo_url: https://github.com/erpuno/ldap
+- description: "\u267E PTS: Pure Type System for Erlang"
+  repo_url: https://github.com/groupoid/pure
+- description: This project will no longer be maintained.
+  repo_url: https://github.com/freecnpro/observerweb
+- description: Erlang Design by Contract
+  repo_url: https://github.com/tamarit/edbc
+- description: A URL Shortening Service Written in Erlang
+  repo_url: https://github.com/seth/sherl
+- description: A drop-in replacement for epmd written in Erlang
+  repo_url: https://github.com/lemenkov/erlpmd
+- description: Event sampler
+  repo_url: https://github.com/g-andrade/deigma
+- description: Merciful killer for your Erlang processes
+  repo_url: https://github.com/doubleyou/euthanasia
+- description: Web based Data Explorer / Data Jump Station with Erlang In-Memory Support
+  repo_url: https://github.com/K2InformaticsGmbH/dderl
+- description: Use Erlang typespecs in the runtime
+  repo_url: https://github.com/k32/typerefl
+- description: Simple generator to kick-off Erlang/OTP projects
+  repo_url: https://github.com/leandrosilva/otp_kickoff
+- description: Erlang implementation of the HOTP algoritm (RFC-4226)
+  repo_url: https://github.com/etnt/ehotp
+- description: "[unmaintained] erlang example using webmachine, hosted on heroku"
+  repo_url: https://github.com/6/heroku-erlang-example
+- description: Sentry client for Erlang
+  repo_url: https://github.com/artemeff/raven-erlang
+- description: A pluggable IRC daemon application/library for Erlang.
+  repo_url: https://github.com/tonyg/erlang-ircd
+- description: Diff algorithm in Erlang
+  repo_url: https://github.com/tomas-abrahamsson/tdiff
+- description: Erlang OpenID
+  repo_url: https://github.com/brendonh/erl_openid
+- description:
+    "DG-IoT\uFF0COpen-source\_IoT\_Platform - Connect management,Device\
+    \ management,Data collection, Processing and Visualization.High concurrency, light\
+    \ weight, low code, fast access, free platform. Industry SaaS for IoT Platform.\u7269\
+    \u8054\u7F51\u5F00\u6E90\u5E73\u53F0\uFF0C\u7269\u8054\u7F51\u5E73\u53F0\u5F00\
+    \u53D1\uFF0C\u8FDE\u63A5\u7BA1\u7406\u3001\u8BBE\u5907\u7BA1\u7406\u3001\u591A\
+    \u5DE5\u4E1A\u534F\u8BAE\u517C\u5BB9\u3001\u6570\u636E\u91C7\u96C6\u3001\u53EF\
+    \u89C6\u5316\u5F00\u53D1\u3001\u9AD8\u5E76\u53D1\u3001\u8F7B\u91CF\u7EA7\u3001\
+    \u4F4E\u4EE3\u7801\u3001\u5FEB\u63A5\u5165\u3001\u5E73\u53F0\u514D\u8D39\u3002"
+  repo_url: https://github.com/dgiot/dgiot
+- description: A tool for rapid profiling of Erlang and Elixir applications
+  repo_url: https://github.com/spawnfest/eflambe
+- description: Erlang game server framework for fun.
+  repo_url: https://github.com/tangyi1989/erl_game_server
+- description:
+    Watches for .erl & .hrl changes, recompiles and reloads. You know,
+    for development.
+  repo_url: https://github.com/RJ/erlang-reup
+- description: A GitHub mirror of the native Erlang MySQL client library.
+  repo_url: https://github.com/ngerakines/erlang_mysql
+- description: Erlang foreign function interface.
+  repo_url: https://github.com/joergen7/effi
+- description: Simple, Fast, Permanent Erlang Worker Pool
+  repo_url: https://github.com/bfrog/hottub
+- description:
+    A super simple framework for extending Erlang supervision to external
+    apps
+  repo_url: https://github.com/gar1t/port_server
+- description: An Erlang Syntactic Sugar Library
+  repo_url: https://github.com/dploop/esugar
+- description: An extensible IMAP server for Erlang
+  repo_url: https://github.com/Vagabond/diemap
+- description: "**pigame** is a game server template for Erlang."
+  repo_url: https://github.com/Naupio/dolphingame
+- description: An Erlang OAuth 1.0 implementation
+  repo_url: https://github.com/erlangcode/erlang-oauth
+- description: Erlang stdlib extensions.
+  repo_url: https://github.com/cannedprimates/stdlib2
+- description: A library that implements the sagas pattern for Erlang
+  repo_url: https://github.com/mrallen1/gisla
+- description: Erlang trading game engine
+  repo_url: https://github.com/mrallen1/parque
+- description: A small library for coercion to primitive Erlang types.
+  repo_url: https://github.com/xvw/coers
+- description: An Erlang OAuth 1.0 implementation
+  repo_url: https://github.com/tim/erlang-oauth
+- description: OpenId Connect client library in Erlang
+  repo_url: https://github.com/indigo-dc/oidcc
+- description: ZMTP protocol in pure Erlang.
+  repo_url: https://github.com/a13x/ezmtp
+- description: "**pigame** is a game server template for Erlang."
+  repo_url: https://github.com/Naupio/dolphin
+- description: Lisp Flavoured Erlang (LFE)
+  repo_url: https://github.com/rvirding/lfe
+- description:
+    Erlang R-Tree implementation I'm going to try and move into CouchDB
+    for n-dimensional spatial indexing
+  repo_url: https://github.com/cchandler/RTreeCouchDB
+- description: uTP implementation in Erlang
+  repo_url: https://github.com/jlouis/erlang-utp
+- description: Erlang exercises with answers
+  repo_url: https://github.com/Klimiec/Erlang
+- description: Erlang to Bitcoind API
+  repo_url: https://github.com/edescourtis/ebitcoind
+- description: cassandra driver in erlang that speaks native cassandra protocol
+  repo_url: https://github.com/RJ/erlang-cassandra-cql
+- description: Apache Kafka client library for Erlang/Elixir
+  repo_url: https://github.com/klarna/brod
+- description: Kafka protocol erlang library
+  repo_url: https://github.com/klarna/kafka_protocol
+- description: An EasyMock inspired mocking library for erlang.
+  repo_url: https://github.com/sheyll/erlymock
+- description: Interface for implementing Gossip Protocols in Erlang
+  repo_url: https://github.com/rramsden/gen_gossip
+- description: Bonjour / Zeroconf in Erlang
+  repo_url: https://github.com/jarrodhroberson/inet_mdns
+- description: RFC 3261 (SIP) implementation in Erlang
+  repo_url: https://github.com/idubrov/siperl
+- description: A mocking (more precisely moking) framework for erlang
+  repo_url: https://github.com/samuelrivas/moka
+- description: Erlang interface for manipulating 802.11 wireless devices
+  repo_url: https://github.com/msantos/wierl
+- description: Simple, safe erlang interface for managing Linux Containers
+  repo_url: https://github.com/msantos/erlxc
+- description: Auth + Google = Augle
+  repo_url: https://github.com/tsloughter/augle
+- description: Dynamic Leader Election behaviour for Erlang
+  repo_url: https://github.com/ngmoco/gl_async_bully
+- description: CAching Datastructure For Applications in ERLang
+  repo_url: https://github.com/ddossot/cadfaerl
+- description:
+    yet another world of warcraft server emulator. implemented in Erlang
+    for fun and learning.
+  repo_url: https://github.com/keymone/wower
