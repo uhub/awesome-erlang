@@ -1027,3 +1027,4 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [ngmoco/gl_async_bully](https://github.com/ngmoco/gl_async_bully) - Dynamic Leader Election behaviour for Erlang
 * [ddossot/cadfaerl](https://github.com/ddossot/cadfaerl) - CAching Datastructure For Applications in ERLang
 * [keymone/wower](https://github.com/keymone/wower) - yet another world of warcraft server emulator. implemented in Erlang for fun and learning.
+* [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - an [Node-RED](https://nodered.org) clone written in Erlang or visual flow-based programming for Erlang
