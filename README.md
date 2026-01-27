@@ -26,6 +26,7 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [sky-big/RabbitMQ](https://github.com/sky-big/RabbitMQ) - RabbitMQ系统3.5.3版本中文完全注释(同时实现了RabbitMQ系统和插件源代码编译，根据配置文件创建RabbitMQ集群，创建连接RabbitMQ系统的客户端节点等相关功能，方便源代码的阅读)
 * [rvirding/luerl](https://github.com/rvirding/luerl) - Lua in Erlang
 * [erlang-lager/lager](https://github.com/erlang-lager/lager) - A logging framework for Erlang/OTP
+* [erlang_json_logger](https://github.com/expelledboy/erlang_json_logger) - A custom and configurable Erlang logger formatter which prints JSON
 * [uwiger/gproc](https://github.com/uwiger/gproc) - Extended process registry for Erlang
 * [aeternity/aeternity](https://github.com/aeternity/aeternity) - æternity blockchain - scalable blockchain for the people - smart contracts, state channels, names, tokens
 * [hamler-lang/hamler](https://github.com/hamler-lang/hamler) - Haskell-style functional programming language running on Erlang VM.
