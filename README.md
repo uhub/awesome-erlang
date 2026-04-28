@@ -281,6 +281,7 @@ Development Tools
 * [proger/active](https://github.com/proger/active) - Active development for Erlang: rebuild and reload source/binary files while the VM is running
 * [dtip/steamroller](https://github.com/dtip/steamroller) - Steamroller: An opinionated Erlang code formatter.
 * [chef/concrete](https://github.com/chef/concrete) - Concrete enhances your rebar based Erlang project by providing a common Makefile wrapper, a dialyzer make target that caches PLT analysis of your project's dependencies, and a mechanism to specify development only dependencies.
+* [saleyn/erlalign](https://github.com/saleyn/erlalign) - A column-aligning code formatter for Erlang source code, inspired by Go's gofmt
 
 Debugging
 * [WhatsApp/edb](https://github.com/WhatsApp/edb) - The next-generation debugger for Erlang.
