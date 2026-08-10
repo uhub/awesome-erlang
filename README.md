@@ -49,9 +49,9 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [ostinelli/syn](https://github.com/ostinelli/syn) - A scalable global Process Registry and Process Group manager for Erlang and Elixir.
 * [erlware/relx](https://github.com/erlware/relx) - Sane, simple release creation for Erlang
 * [kafka4beam/brod](https://github.com/kafka4beam/brod) - Apache Kafka client library for Erlang/Elixir
+* [dgud/wings](https://github.com/dgud/wings) - Wings3D is an advanced sub-division 3D modeller.
 * [knutin/elli](https://github.com/knutin/elli) - Simple, robust and performant Erlang web server
 * [erlang-ls/erlang_ls](https://github.com/erlang-ls/erlang_ls) - The Erlang Language Server
-* [dgud/wings](https://github.com/dgud/wings) - Wings3D is an advanced sub-division 3D modeller.
 * [ostinelli/misultin](https://github.com/ostinelli/misultin) - Misultin (pronounced mee-sool-téen) is an Erlang library for building fast lightweight HTTP(S) servers, which also supports websockets.
 * [erlcloud/erlcloud](https://github.com/erlcloud/erlcloud) - AWS APIs library for Erlang (Amazon EC2, S3, SQS, DDB,  ELB and etc)
 * [inaka/erlang_guidelines](https://github.com/inaka/erlang_guidelines) - Inaka's Erlang Coding Guidelines
@@ -67,8 +67,8 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [Feuerlabs/exometer](https://github.com/Feuerlabs/exometer) - Basic measurement objects and probe behavior
 * [cbd/edis](https://github.com/cbd/edis) - An Erlang implementation of Redis
 * [cmullaparthi/ibrowse](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP client
-* [erlydtl/erlydtl](https://github.com/erlydtl/erlydtl) - Django templates for Erlang
 * [jlouis/fuse](https://github.com/jlouis/fuse) - A Circuit Breaker for Erlang
+* [erlydtl/erlydtl](https://github.com/erlydtl/erlydtl) - Django templates for Erlang
 * [ernw/ss7MAPer](https://github.com/ernw/ss7MAPer) - SS7 MAP (pen-)testing toolkit. DISCONTINUED REPO, please use: https://github.com/0xc0decafe/ss7MAPer/
 * [ferd/erlang-history](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell
 * [dnsimple/erldns](https://github.com/dnsimple/erldns) - DNS server, in Erlang.
@@ -99,8 +99,8 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [elli-lib/elli](https://github.com/elli-lib/elli) - Simple, robust and performant Erlang web server
 * [potatosalad/erlang-jose](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir
 * [yzh44yzh/practical_erlang](https://github.com/yzh44yzh/practical_erlang) - Курс обучения Эрланг
-* [matteoredaelli/ebot](https://github.com/matteoredaelli/ebot) - Ebot, an Opensource Web Crawler built on top of a nosql database (apache couchdb, riak), AMQP database (rabbitmq), webmachine and mochiweb. Ebot is written in Erlang and it is a very scalable, distribuited and highly configurable web cawler. See wiki pages for more details
 * [wg/epgsql](https://github.com/wg/epgsql) - Erlang PostgreSQL client
+* [matteoredaelli/ebot](https://github.com/matteoredaelli/ebot) - Ebot, an Opensource Web Crawler built on top of a nosql database (apache couchdb, riak), AMQP database (rabbitmq), webmachine and mochiweb. Ebot is written in Erlang and it is a very scalable, distribuited and highly configurable web cawler. See wiki pages for more details
 * [ferd/pobox](https://github.com/ferd/pobox) - External buffer processes to protect against mailbox overflow in Erlang
 * [grisp/grisp](https://github.com/grisp/grisp) - 🐟 GRiSP Erlang Runtime Library
 * [yrashk/socket.io-erlang](https://github.com/yrashk/socket.io-erlang) - Socket.IO server for Erlang
@@ -113,18 +113,18 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [erleans/erleans](https://github.com/erleans/erleans) - Erlang Orleans
 * [chef/chef-server](https://github.com/chef/chef-server) - Chef Infra Server is a hub for configuration data; storing cookbooks, node policies and metadata of managed nodes.
 * [jlouis/etorrent](https://github.com/jlouis/etorrent) - Erlang Bittorrent Client
-* [cabol/shards](https://github.com/cabol/shards) - Partitioned ETS tables for Erlang and Elixir
 * [novaframework/nova](https://github.com/novaframework/nova) - Web framework for the BEAM — Erlang, Elixir, and LFE
-* [sile/jsone](https://github.com/sile/jsone) - Erlang JSON library
+* [cabol/shards](https://github.com/cabol/shards) - Partitioned ETS tables for Erlang and Elixir
 * [ninenines/cowlib](https://github.com/ninenines/cowlib) - Support library for manipulating Web protocols.
+* [sile/jsone](https://github.com/sile/jsone) - Erlang JSON library
 * [inaka/worker_pool](https://github.com/inaka/worker_pool) - Erlang worker pool
 * [erlangpack/erlang-oauth](https://github.com/erlangpack/erlang-oauth) - An Erlang OAuth 1.0 implementation
 * [bragful/ephp](https://github.com/bragful/ephp) - Bragful core: PHP Interpreter in pure Erlang
 * [zkessin/testing-erlang-book](https://github.com/zkessin/testing-erlang-book) - A public book on testing Erlang
 * [msantos/procket](https://github.com/msantos/procket) - Erlang interface to low level socket operations
 * [Appliscale/xprof](https://github.com/Appliscale/xprof) - A visual tracer and profiler for Erlang and Elixir.
-* [ErlyORM/boss_db](https://github.com/ErlyORM/boss_db) - BossDB: a sharded, caching, pooling, evented ORM for Erlang
 * [KirinDave/fuzed](https://github.com/KirinDave/fuzed) - A new revision of Fuzed, the Erlang-based frontend for web apps. Check out the mailing list at http://groups.google.com/group/fuzed
+* [ErlyORM/boss_db](https://github.com/ErlyORM/boss_db) - BossDB: a sharded, caching, pooling, evented ORM for Erlang
 * [emqx/quic](https://github.com/emqx/quic) - QUIC protocol for Erlang & Elixir
 * [hibari/hibari](https://github.com/hibari/hibari) - Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.
 * [andrewjstone/rafter](https://github.com/andrewjstone/rafter) - An Erlang library application which implements the Raft consensus protocol
@@ -137,9 +137,9 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [jlouis/safetyvalve](https://github.com/jlouis/safetyvalve) - A safety valve for your erlang node
 * [oreillymedia/etudes-for-erlang](https://github.com/oreillymedia/etudes-for-erlang) - Companion exercises for O'Reilly Media's "Introducing Erlang"
 * [jcomellas/getopt](https://github.com/jcomellas/getopt) - Erlang module to parse command line arguments using the GNU getopt syntax
-* [mochi/statebox](https://github.com/mochi/statebox) - Erlang state "monad" with merge/conflict-resolution capabilities. Useful for Riak.
 * [ferd/vmstats](https://github.com/ferd/vmstats) - tiny Erlang app to generate information on the Erlang VM
 * [processone/stun](https://github.com/processone/stun) - STUN and TURN library for Erlang / Elixir
+* [mochi/statebox](https://github.com/mochi/statebox) - Erlang state "monad" with merge/conflict-resolution capabilities. Useful for Riak.
 * [joergen7/cuneiform](https://github.com/joergen7/cuneiform) - Cuneiform distributed programming language
 * [mojombo/mustache.erl](https://github.com/mojombo/mustache.erl) - Mustache template engine for Erlang.
 * [choptastic/qdate](https://github.com/choptastic/qdate) - Erlang date, time, and timezone management: formatting, conversion, and date arithmetic
@@ -148,11 +148,11 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [virtan/eep](https://github.com/virtan/eep) - Erlang Easy Profiling (eep) application provides a way to analyze application performance and call hierarchy
 * [benoitc/couchbeam](https://github.com/benoitc/couchbeam) - Apache CouchDB client in Erlang
 * [yuce/pot](https://github.com/yuce/pot) - POT is an Erlang library for generating Google Authenticator compatible one time passwords
+* [erlef/oidcc](https://github.com/erlef/oidcc) - OpenId Connect client library in Erlang & Elixir
 * [cabol/erlbus](https://github.com/cabol/erlbus) - Simple, Distributed and Scalable PubSub Message Bus written in Erlang
 * [basho/erlang_js](https://github.com/basho/erlang_js) - A linked-in driver for Erlang to Mozilla's Spidermonkey Javascript runtime.
 * [uwiger/parse_trans](https://github.com/uwiger/parse_trans) - Parse transform utilities for Erlang
 * [synrc/shen](https://github.com/synrc/shen) - 🐉 SHEN: Erlang JavaScript Compiler
-* [erlef/oidcc](https://github.com/erlef/oidcc) - OpenId Connect client library in Erlang & Elixir
 * [priestjim/gen_rpc](https://github.com/priestjim/gen_rpc) - A scalable RPC library for Erlang-VM based languages
 * [massemanet/redbug](https://github.com/massemanet/redbug) - erlang tracing debugger
 * [erlware/erlware_commons](https://github.com/erlware/erlware_commons) - Erlware Commons is an Erlware project focused on all aspects of reusable Erlang components.
@@ -160,22 +160,22 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [okeuday/uuid](https://github.com/okeuday/uuid) - Erlang Native UUID Generation
 * [lfex/py](https://github.com/lfex/py) - Distributed Python for the Erlang Ecosystem
 * [kivra/oauth2](https://github.com/kivra/oauth2) - Erlang Oauth2 implementation
-* [kudelskisecurity/scannerl](https://github.com/kudelskisecurity/scannerl) - The modular distributed fingerprinting engine
 * [msgpack/msgpack-erlang](https://github.com/msgpack/msgpack-erlang) - MessagePack (de)serializer implementation for Erlang / msgpack.org[Erlang]
+* [kudelskisecurity/scannerl](https://github.com/kudelskisecurity/scannerl) - The modular distributed fingerprinting engine
 * [emqx/esockd](https://github.com/emqx/esockd) - Erlang general non-blocking TCP/SSL socket server
 * [afiniate/seresye](https://github.com/afiniate/seresye) - SERESYE means Swarm oriented ERlang Expert SYstem Engine. It is a library to write expert systems and rule processing engines using the Erlang programming language. It allows to create multiple engines, each one with its own facts and rules to be processed.
 * [cqerl/cqerl](https://github.com/cqerl/cqerl) - Native Erlang CQL client for Cassandra
 * [yakaz/yamerl](https://github.com/yakaz/yamerl) - YAML 1.2 and JSON parser in pure Erlang
-* [FlowForwarding/LINC-Switch](https://github.com/FlowForwarding/LINC-Switch) - OpenFlow Software Switch written in Erlang
 * [ferd/dispcount](https://github.com/ferd/dispcount) - Erlang task dispatcher based on ETS counters.
+* [FlowForwarding/LINC-Switch](https://github.com/FlowForwarding/LINC-Switch) - OpenFlow Software Switch written in Erlang
 * [cuter-testing/cuter](https://github.com/cuter-testing/cuter) - A concolic testing tool for the Erlang functional programming language.
 * [joearms/elib1](https://github.com/joearms/elib1) - An Erlang library and collection of applications
 * [zeromq/chumak](https://github.com/zeromq/chumak) - Pure Erlang implementation of ZeroMQ Message Transport Protocol.
 * [bet365/soap](https://github.com/bet365/soap) - Make it easy to use SOAP from Erlang
 * [OtpChatBot/Ybot](https://github.com/OtpChatBot/Ybot) - Ybot - is a helpful chat robot written with Erlang which supports different messaging protocols. [@0xAX]
 * [jlouis/enacl](https://github.com/jlouis/enacl) - Erlang bindings for NaCl / libsodium
-* [hauleth/erlang-systemd](https://github.com/hauleth/erlang-systemd) - systemd utilities for Erlang applications
 * [alertlogic/erllambda](https://github.com/alertlogic/erllambda) - AWS Lambda in Erlang
+* [hauleth/erlang-systemd](https://github.com/hauleth/erlang-systemd) - systemd utilities for Erlang applications
 * [Feuerlabs/exometer_core](https://github.com/Feuerlabs/exometer_core) - Core components of exometer
 * [lpgauth/shackle](https://github.com/lpgauth/shackle) - High-Performance Erlang Network Client Framework
 * [klarna/circuit_breaker](https://github.com/klarna/circuit_breaker) - :boom: An Erlang library for breaking out of faulty services
@@ -188,47 +188,47 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [johnlinvc/erruby](https://github.com/johnlinvc/erruby) - ruby on erlang
 * [karlll/kjell](https://github.com/karlll/kjell) - Erlang Shell
 * [patrickgombert/erlang-koans](https://github.com/patrickgombert/erlang-koans) - Erlang Koans
-* [processone/exmpp](https://github.com/processone/exmpp) - Erlang XMPP library
 * [inaka/sumo_db](https://github.com/inaka/sumo_db) - Erlang Persistency Framework
-* [seth/ej](https://github.com/seth/ej) - Helper module for working with Erlang terms representing JSON
+* [processone/exmpp](https://github.com/processone/exmpp) - Erlang XMPP library
 * [fredrikt/yxa](https://github.com/fredrikt/yxa) - SIP software written in Erlang
+* [seth/ej](https://github.com/seth/ej) - Helper module for working with Erlang terms representing JSON
 * [dizzyd/erlang-mysql-driver](https://github.com/dizzyd/erlang-mysql-driver) - Erlang MySQL Driver (from code.google.com)
 * [synrc/mad](https://github.com/synrc/mad) - ⚡ MAD: Managing Application Dependencies LING/UNIX
-* [agner/agner](https://github.com/agner/agner) - Erlang package manager (A Giant Nebula of Erlang Repositories)
 * [okeuday/pqueue](https://github.com/okeuday/pqueue) - Erlang Priority Queues
+* [agner/agner](https://github.com/agner/agner) - Erlang package manager (A Giant Nebula of Erlang Repositories)
 * [fbeline/rooster](https://github.com/fbeline/rooster) - Erlang REST framework
 * [erlang/docker-erlang-example](https://github.com/erlang/docker-erlang-example) - HowTo Erlang in Docker
 * [lpil/thoas](https://github.com/lpil/thoas) - A blazing fast JSON parser and generator in pure Erlang.
 * [inaka/shotgun](https://github.com/inaka/shotgun) - For the times you need more than just a gun.
 * [basho/riak_ensemble](https://github.com/basho/riak_ensemble) - Multi-Paxos framework in Erlang
 * [joearms/erl2](https://github.com/joearms/erl2) - a new dialect of erlang
+* [klarna/ponos](https://github.com/klarna/ponos) - ponos is a simple yet powerful load generator written in erlang
 * [helpshift/ekaf](https://github.com/helpshift/ekaf) - A minimal, high-performance Kafka client in Erlang.
 * [tsloughter/erlastic_search](https://github.com/tsloughter/erlastic_search) - An Erlang app for communicating with Elastic Search's rest interface.
 * [RefactoringTools/wrangler](https://github.com/RefactoringTools/wrangler) - Wrangler -- An Erlang Refactorer
-* [klarna/ponos](https://github.com/klarna/ponos) - ponos is a simple yet powerful load generator written in erlang
 * [jtendo/binpp](https://github.com/jtendo/binpp) -  :1234: Erlang Binary Pretty Printer
-* [ParaPhrase/skel](https://github.com/ParaPhrase/skel) - A Streaming Process-based Skeleton Library for Erlang
-* [fogfish/datalog](https://github.com/fogfish/datalog) - simplified query engine based on logic programming paradigm
 * [benoitc/hornbeam](https://github.com/benoitc/hornbeam) - WSGI/ASGI HTTP server powered by the BEAM. Mix the best of Python (AI, web apps) with Erlang (distribution, concurrency, resilience).
+* [fogfish/datalog](https://github.com/fogfish/datalog) - simplified query engine based on logic programming paradigm
+* [ParaPhrase/skel](https://github.com/ParaPhrase/skel) - A Streaming Process-based Skeleton Library for Erlang
 * [aggelgian/erlang-algorithms](https://github.com/aggelgian/erlang-algorithms) - Implementations of popular data structures and algorithms
 * [scalaris-team/scalaris](https://github.com/scalaris-team/scalaris) - Scalaris, a distributed, transactional key-value store
 * [Random-Liu/Erlang-In-Docker](https://github.com/Random-Liu/Erlang-In-Docker) - Enable connection between Erlang VMs from different docker containers on different hosts by reimplementing the distributed connection protocol used by net_kernel.
-* [Stratus3D/eflambe](https://github.com/Stratus3D/eflambe) - A tool for rapid profiling of Erlang and Elixir applications
 * [mazenharake/cecho](https://github.com/mazenharake/cecho) - An ncurses library for Erlang
-* [msantos/pkt](https://github.com/msantos/pkt) - Erlang network protocol library
 * [emqx/mria](https://github.com/emqx/mria) - Asynchronously replicated Mnesia-like database for Erlang/Elixir
-* [yariv/erlyweb](https://github.com/yariv/erlyweb) - The Erlang twist on web frameworks
+* [Stratus3D/eflambe](https://github.com/Stratus3D/eflambe) - A tool for rapid profiling of Erlang and Elixir applications
+* [msantos/pkt](https://github.com/msantos/pkt) - Erlang network protocol library
+* [bondy-io/bondy](https://github.com/bondy-io/bondy) - Bondy is an open source, always-on and scalable application networking platform connecting all elements of a distributed application—offering service and event mesh capabilities combined. Bondy implements the open Web Application Messaging Protocol (WAMP) and is written in Erlang.
 * [basho/clique](https://github.com/basho/clique) - CLI Framework for Erlang
 * [ahmednawras/log4erl](https://github.com/ahmednawras/log4erl) - A logger for erlang in the spirit of Log4J.
+* [yariv/erlyweb](https://github.com/yariv/erlyweb) - The Erlang twist on web frameworks
 * [processone/xmpp](https://github.com/processone/xmpp) - Erlang/Elixir XMPP parsing and serialization library on top of Fast XML
 * [lambdaclass/riak_core_tutorial](https://github.com/lambdaclass/riak_core_tutorial) - An up to date riak_core tutorial, using basho's riak_core, Erlang/OTP 23-24-25 and rebar3.
-* [bondy-io/bondy](https://github.com/bondy-io/bondy) - Bondy is an open source, always-on and scalable application networking platform connecting all elements of a distributed application—offering service and event mesh capabilities combined. Bondy implements the open Web Application Messaging Protocol (WAMP) and is written in Erlang.
 * [lostcolony/damocles](https://github.com/lostcolony/damocles) - An Erlang library for generating adversarial network conditions for QAing distributed applications/systems on a single Linux box.
 * [tsloughter/grpcbox](https://github.com/tsloughter/grpcbox) - Erlang grpc on chatterbox
 * [parapluu/nifty](https://github.com/parapluu/nifty) - Erlang NIF Wrapper Generator
+* [robbielynch/ierlang](https://github.com/robbielynch/ierlang) - An Erlang language kernel for IPython.
 * [lasp-lang/types](https://github.com/lasp-lang/types) - Prototype implementation of Conflict-free Replicated Data Types (CRDTs) in Erlang.
 * [fogfish/cache](https://github.com/fogfish/cache) - Erlang in-memory cache
-* [robbielynch/ierlang](https://github.com/robbielynch/ierlang) - An Erlang language kernel for IPython.
 * [rabbitmq/looking_glass](https://github.com/rabbitmq/looking_glass) - An Erlang/Elixir/BEAM profiler tool
 * [max-au/erlperf](https://github.com/max-au/erlperf) - Erlang Benchmarking Suite. Simpler way to say "this code is faster".
 * [GameAnalytics/gascheduler](https://github.com/GameAnalytics/gascheduler) - Erlang Distributed Scheduler
@@ -250,12 +250,12 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [for-GET/jesse](https://github.com/for-GET/jesse) - jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.
 * [CorticalComputer/Book_NeuroevolutionThroughErlang](https://github.com/CorticalComputer/Book_NeuroevolutionThroughErlang) - The resulting source code produced at the end of each chapter in Handbook of Neuroevolution Through Erlang.
 * [puzza007/katipo](https://github.com/puzza007/katipo) - HTTP2/HTTP3 client for Erlang based on libcurl and libevent
-* [selectel/yawndb](https://github.com/selectel/yawndb) - In-memory circular array database
 * [poroh/ersip](https://github.com/poroh/ersip) - Erlang SIP
-* [fogfish/datum](https://github.com/fogfish/datum) - pure functional and generic programming for Erlang
+* [selectel/yawndb](https://github.com/selectel/yawndb) - In-memory circular array database
 * [esl/lhttpc](https://github.com/esl/lhttpc) - lhttpc is a lightweight HTTP/1.1 client implemented in Erlang.
 * [WhatsApp/erlt](https://github.com/WhatsApp/erlt) - Early prototype of ErlT, an experimental Erlang dialect with first-class support for static typing.
 * [inaka/cowboy_swagger](https://github.com/inaka/cowboy_swagger) - Swagger integration for Cowboy (built on trails)
+* [fogfish/datum](https://github.com/fogfish/datum) - pure functional and generic programming for Erlang
 * [kevinlynx/dhtcrawler](https://github.com/kevinlynx/dhtcrawler) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents.
 * [beamjs/erlv8](https://github.com/beamjs/erlv8) - Erlang interface for V8
 * [gar1t/lambdapad](https://github.com/gar1t/lambdapad) - Static site generator using Erlang. Yes, Erlang.
@@ -284,35 +284,35 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [artemeff/eql](https://github.com/artemeff/eql) - Erlang with SQL or not
 * [jordillonch/eggs](https://github.com/jordillonch/eggs) - Erlang Generic Game Server
 * [WhatsApp/edb](https://github.com/WhatsApp/edb) - The next-generation debugger for Erlang.
-* [nitrogen/simple_bridge](https://github.com/nitrogen/simple_bridge) - A simple, standardized interface library to Erlang HTTP Servers.
 * [mojombo/egitd](https://github.com/mojombo/egitd) - The Erlang git-daemon
+* [nitrogen/simple_bridge](https://github.com/nitrogen/simple_bridge) - A simple, standardized interface library to Erlang HTTP Servers.
 * [knutin/statman](https://github.com/knutin/statman) - Efficiently collect massive volumes of metrics inside the Erlang VM
 * [hypernumbers/LuvvieScript](https://github.com/hypernumbers/LuvvieScript) - Luvvie Script. An Erlang dialect that compiles to Javascript for Actor-style DOM scripting
 * [AdRoll/rebar3_format](https://github.com/AdRoll/rebar3_format) - Erlang Formatter for Rebar3
 * [erlscripten/erlscripten](https://github.com/erlscripten/erlscripten) - Erlang to PureScript transpiler. Run Erlang in the browser!
 * [avtobiff/erlang-uuid](https://github.com/avtobiff/erlang-uuid) - Erlang UUID
-* [ngerakines/erlang_twitter](https://github.com/ngerakines/erlang_twitter) - An Erlang twitter client
 * [esl/amoc](https://github.com/esl/amoc) - A load-testing framework for running massively parallel tests
+* [ngerakines/erlang_twitter](https://github.com/ngerakines/erlang_twitter) - An Erlang twitter client
 * [crownedgrouse/geas](https://github.com/crownedgrouse/geas) - Guess Erlang Application Scattering
 * [erlangbureau/jamdb_oracle](https://github.com/erlangbureau/jamdb_oracle) - Oracle Database driver for Erlang
-* [deadtrickster/ssl_verify_fun.erl](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang
 * [benoitc/erlang_quic](https://github.com/benoitc/erlang_quic) - Pure Erlang QUIC implementation (RFC 9000)
-* [msantos/gen_icmp](https://github.com/msantos/gen_icmp) - Erlang interface to ICMP sockets
+* [deadtrickster/ssl_verify_fun.erl](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang
 * [gotthardp/gen_coap](https://github.com/gotthardp/gen_coap) - Generic Erlang CoAP Client/Server
+* [msantos/gen_icmp](https://github.com/msantos/gen_icmp) - Erlang interface to ICMP sockets
+* [erleans/pgo](https://github.com/erleans/pgo) - Erlang Postgres client and connection pool
 * [uwiger/sext](https://github.com/uwiger/sext) - Sortable Erlang Term Serialization
 * [gebi/jungerl](https://github.com/gebi/jungerl) - The Jungle of Erlang code
 * [etrepum/kvc](https://github.com/etrepum/kvc) - KVC - Key Value Coding for Erlang data structures
-* [erleans/pgo](https://github.com/erleans/pgo) - Erlang Postgres client and connection pool
 * [Bluehouse-Technology/otter](https://github.com/Bluehouse-Technology/otter) - Support for OpenTracing in Erlang
 * [RJ/erlang-spdy](https://github.com/RJ/erlang-spdy) - Library implementing the SPDY protocol
-* [basho/sidejob](https://github.com/basho/sidejob) - Parallel worker and capacity limiting library for Erlang
 * [okeuday/pest](https://github.com/okeuday/pest) - :beetle:  Primitive Erlang Security Tool
-* [joewilliams/merle](https://github.com/joewilliams/merle) - An Erlang Memcached Client.
+* [basho/sidejob](https://github.com/basho/sidejob) - Parallel worker and capacity limiting library for Erlang
 * [vim-erlang/vim-erlang-runtime](https://github.com/vim-erlang/vim-erlang-runtime) - Erlang indentation and syntax for Vim
 * [membase/cucumberl](https://github.com/membase/cucumberl) - pure erlang implementation of Cucumber parser & driver
+* [joewilliams/merle](https://github.com/joewilliams/merle) - An Erlang Memcached Client.
+* [dnsimple/dns_erlang](https://github.com/dnsimple/dns_erlang) - Erlang DNS library.
 * [mojombo/bert.erl](https://github.com/mojombo/bert.erl) - Erlang BERT encoder/decoder
 * [jbrisbin/amqp_client](https://github.com/jbrisbin/amqp_client) - Rebar-friendly fork of rabbitmq-erlang-client
-* [dnsimple/dns_erlang](https://github.com/dnsimple/dns_erlang) - Erlang DNS library.
 * [Bluehouse-Technology/grpc](https://github.com/Bluehouse-Technology/grpc) - Erlang library for GRPC
 * [vascokk/NumEr](https://github.com/vascokk/NumEr) - Numeric Erlang - vector and matrix operations with CUDA. Heavily inspired by Pteracuda - https://github.com/kevsmith/pteracuda
 * [lpgauth/statsderl](https://github.com/lpgauth/statsderl) - High-Performance Erlang StatsD Client
@@ -345,22 +345,22 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [erlware-deprecated/sinan](https://github.com/erlware-deprecated/sinan) - Erlang/OTP oriented build system
 * [duomark/erlangsp](https://github.com/duomark/erlangsp) - Erlang Services Platform
 * [chef-boneyard/erchef](https://github.com/chef-boneyard/erchef) - DEPRECATED: Erlang based Chef Server top-level OTP release project
-* [benoitc/cowboy_revproxy](https://github.com/benoitc/cowboy_revproxy) - simple TCP routing proxy (layer 7) in erlang
 * [travelping/ergw](https://github.com/travelping/ergw) - erGW - Erlang implementations of GGSN or P-GW
 * [RJ/estatsd](https://github.com/RJ/estatsd) - Erlang stats aggregation app that periodically flushes data to graphite
 * [proger/erldocker](https://github.com/proger/erldocker) - Docker Remote API client for Erlang
 * [ngerakines/erlang_couchdb](https://github.com/ngerakines/erlang_couchdb) - This is another erlang CouchDB client. It is a little simpler than most and does what I want.
 * [msantos/evum](https://github.com/msantos/evum) - ["Linux VM", ["Erlang Process", ["Erlang VM"]]].
 * [julianduque/erlang-color](https://github.com/julianduque/erlang-color) - ANSI colors for your Erlang
+* [benoitc/cowboy_revproxy](https://github.com/benoitc/cowboy_revproxy) - simple TCP routing proxy (layer 7) in erlang
 * [Vagabond/erlang-syslog](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3)
 * [strange/erlang_v8](https://github.com/strange/erlang_v8) - Run JavaScript from Erlang in an external OS process.
 * [shortishly/erlang-in-docker-from-scratch](https://github.com/shortishly/erlang-in-docker-from-scratch) - An Erlang application release in a Docker container from scratch
 * [pdincau/gcm-erlang](https://github.com/pdincau/gcm-erlang) - An Erlang application for Google Cloud Messaging
 * [inaka/gold_fever](https://github.com/inaka/gold_fever) - A Treasure Hunt for Erlangers
-* [gar1t/psycho](https://github.com/gar1t/psycho) - Yes, another Erlang web server!
-* [aws-beam/aws-erlang](https://github.com/aws-beam/aws-erlang) -  Create, configure, and manage AWS services from Erlang code.
-* [emqxarchive/emqx-web-hook](https://github.com/emqxarchive/emqx-web-hook) - EMQX Webhook Plugin
 * [dweldon/edate](https://github.com/dweldon/edate) - date manipulation library for erlang
+* [aws-beam/aws-erlang](https://github.com/aws-beam/aws-erlang) -  Create, configure, and manage AWS services from Erlang code.
+* [gar1t/psycho](https://github.com/gar1t/psycho) - Yes, another Erlang web server!
+* [emqxarchive/emqx-web-hook](https://github.com/emqxarchive/emqx-web-hook) - EMQX Webhook Plugin
 * [davebryson/erlang_websocket](https://github.com/davebryson/erlang_websocket) - WebSocket Server and Client implementation in Erlang/Mochiweb
 * [benoitc-attic/barrel_tcp](https://github.com/benoitc-attic/barrel_tcp) - barrel_tcp  is a generic TCP acceptor pool with low latency in Erlang.
 * [tank-bohr/bookish_spork](https://github.com/tank-bohr/bookish_spork) - Erlang library for testing http requests
@@ -370,31 +370,31 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [erlang-punch/awesome-erlang](https://github.com/erlang-punch/awesome-erlang) - An (accurate) list of awesome Erlang resources
 * [adrienmo/eredis_cluster](https://github.com/adrienmo/eredis_cluster) - eredis_cluster is an erlang wrapper for eredis to support cluster mode of redis 3.0.0+
 * [WhatsApp/power_shell](https://github.com/WhatsApp/power_shell) - Erlang shell with advanced features: evaluating non-exported functions and shortcuts for frequently used functions.
+* [tolbrino/hotwheels](https://github.com/tolbrino/hotwheels) - Erlang messaging server optimized to send 1 message to 40k subscribers to a topic in < 1s
+* [msantos/tunctl](https://github.com/msantos/tunctl) - Erlang TUN/TAP interface
 * [mfoemmel/erlang-otp](https://github.com/mfoemmel/erlang-otp) - All of the public Erlang/OTP source releases (since R6B-0 in 1999) in convenient git form
 * [lpgauth/buoy](https://github.com/lpgauth/buoy) - High-Performance Erlang HTTP 1.1 Client
 * [EchoTeam/mcd](https://github.com/EchoTeam/mcd) - Fast memcached protocol client in pure Erlang
 * [benoitc/econfig](https://github.com/benoitc/econfig) - simple Erlang config handler using INI files
-* [tolbrino/hotwheels](https://github.com/tolbrino/hotwheels) - Erlang messaging server optimized to send 1 message to 40k subscribers to a topic in < 1s
 * [silviucpp/erlcass](https://github.com/silviucpp/erlcass) - High-Performance Erlang Cassandra driver based on DataStax cpp-driver
-* [msantos/tunctl](https://github.com/msantos/tunctl) - Erlang TUN/TAP interface
 * [fredlund/JavaErlang](https://github.com/fredlund/JavaErlang) - JavaErlang is a library that attempts to facilitate the communication between Java and Erlang nodes, implemented as an additional layer on top  of the JInterface Java interface.
 * [richcarl/merl](https://github.com/richcarl/merl) - Metaprogramming in Erlang
+* [inaka/elvis_core](https://github.com/inaka/elvis_core) - The core of an Erlang linter
 * [G-Corp/vice](https://github.com/G-Corp/vice) - [MIRROR] Video, audio and Image Converter for Erlang/Elixir
 * [ferd/merklet](https://github.com/ferd/merklet) - Merkle Trees for data replication in Erlang
 * [covertool/covertool](https://github.com/covertool/covertool) - Tool to convert Erlang cover data files into Cobertura XML reports
-* [inaka/elvis_core](https://github.com/inaka/elvis_core) - The core of an Erlang linter
+* [engineyard/natter](https://github.com/engineyard/natter) - Erlang XMPP Client
 * [archaelus/esmtp](https://github.com/archaelus/esmtp) - Erlang SMTP library
 * [luisgabriel/erl-chat-server](https://github.com/luisgabriel/erl-chat-server) - A simple chat server written in Erlang.
 * [lrascao/rebar3_appup_plugin](https://github.com/lrascao/rebar3_appup_plugin) - A rebar3 plugin for frictionless release upgrades
 * [jkvor/redo](https://github.com/jkvor/redo) - pipelined erlang redis client
 * [erlangpack/mimetypes](https://github.com/erlangpack/mimetypes) - Erlang MIME types library
-* [engineyard/natter](https://github.com/engineyard/natter) - Erlang XMPP Client
 * [tatsuhiro-t/lucid](https://github.com/tatsuhiro-t/lucid) - HTTP/2 server written in Erlang
 * [sinasamavati/condor](https://github.com/sinasamavati/condor) - A minimal library for building scalable TCP servers in Erlang
+* [schacon/erlangit](https://github.com/schacon/erlangit) - Erlang Git Implementation
 * [kivra/oauth2_client](https://github.com/kivra/oauth2_client) - Erlang OAuth2 Client
 * [basho/riak_sysmon](https://github.com/basho/riak_sysmon) - Simple OTP app for managing Erlang VM system_monitor event messages
 * [arizona-framework/arizona](https://github.com/arizona-framework/arizona) - A web framework for Erlang/OTP
-* [schacon/erlangit](https://github.com/schacon/erlangit) - Erlang Git Implementation
 * [inaka/cowboy-trails](https://github.com/inaka/cowboy-trails) - A couple of improvements over Cowboy Routes
 * [fillmyheart/slg-server](https://github.com/fillmyheart/slg-server) - erlang 游戏服务器框架。
 * [daleharvey/erldocs](https://github.com/daleharvey/erldocs) - Alternative to the erlang documentation
@@ -437,6 +437,7 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [lasp-lang/lasp_pg](https://github.com/lasp-lang/lasp_pg) - Lasp driven process group registry for Erlang.
 * [KirinDave/gen_leader_revival](https://github.com/KirinDave/gen_leader_revival) - A project to unify various implementations of the Erlang library gen_leader into a modern, robust single implementation
 * [joergen7/gen_pnet](https://github.com/joergen7/gen_pnet) - library for modeling Petri nets in Erlang
+* [etylizer/etylizer](https://github.com/etylizer/etylizer) - Static typechecker for Erlang
 * [cstar/erldis](https://github.com/cstar/erldis) - redis erlang client library (imported from bitbucket)
 * [refuge/cowdb](https://github.com/refuge/cowdb) - Pure Key/Value database library for Erlang Applications
 * [pouriya/director](https://github.com/pouriya/director) - Director is a production-ready supervisor and manager for Erlang/Elixir processes that focuses on speed, performance and flexibility.
@@ -448,22 +449,21 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [travelping/eradius](https://github.com/travelping/eradius) - Erlang RADIUS server framework
 * [p2k/ecoinpool](https://github.com/p2k/ecoinpool) - A pool mining software written in Erlang for cryptographic currencies
 * [jtendo/confetti](https://github.com/jtendo/confetti) - Erlang configuration provider / application:get_env/2 on steroids
-* [etylizer/etylizer](https://github.com/etylizer/etylizer) - Static typechecker for Erlang
 * [boundary/gen_lb](https://github.com/boundary/gen_lb) - A generic library to load balance communication between Erlang nodes
+* [skeltoac/php_app](https://github.com/skeltoac/php_app) - A PHP eval server for Erlang/OTP.
 * [inaka/sheldon](https://github.com/inaka/sheldon) - Very Simple Erlang Spell Checker
 * [extend/elevators](https://github.com/extend/elevators) - Elevator control system demonstrating Erlang/OTP upgrades.
 * [erlnets/nkdocker](https://github.com/erlnets/nkdocker) - Erlang Docker client
 * [arjan/pkgx](https://github.com/arjan/pkgx) - Build .deb packages from Erlang releases
-* [skeltoac/php_app](https://github.com/skeltoac/php_app) - A PHP eval server for Erlang/OTP.
-* [seriyps/pe4kin](https://github.com/seriyps/pe4kin) - Erlang wrapper for Telegram bot API https://core.telegram.org/bots
 * [proger/erlsh](https://github.com/proger/erlsh) - Erlang shell tools
 * [lpgauth/marina](https://github.com/lpgauth/marina) - High-Performance Erlang Cassandra / Scylla CQL Client
 * [lambdaclass/erlang-katana](https://github.com/lambdaclass/erlang-katana) - :ok_hand: erlang grab bag of useful functions. it should have been called swiss army knife but katanas are more deadlier ;)
+* [gburd/gen_paxos](https://github.com/gburd/gen_paxos) - An Erlang/OTP-style implementation of the PAXOS distributed consensus protocol
 * [adoptingerlang/service_discovery](https://github.com/adoptingerlang/service_discovery) - Adopting Erlang service discovery project
 * [whitfin/sleeplocks](https://github.com/whitfin/sleeplocks) - BEAM friendly spinlocks for Elixir/Erlang
 * [ten0s/syntaxerl](https://github.com/ten0s/syntaxerl) - Syntax checker for Erlang
+* [seriyps/pe4kin](https://github.com/seriyps/pe4kin) - Erlang wrapper for Telegram bot API https://core.telegram.org/bots
 * [knutin/bisect](https://github.com/knutin/bisect) - Ordered fixed-size binary dictionary in Erlang
-* [gburd/gen_paxos](https://github.com/gburd/gen_paxos) - An Erlang/OTP-style implementation of the PAXOS distributed consensus protocol
 * [emirozer/beamwhale](https://github.com/emirozer/beamwhale) - minimal container runtime in erlang
 * [comtihon/bson-erlang](https://github.com/comtihon/bson-erlang) - BSON documents in Erlang, see bsonspec.org
 * [vim-erlang/vim-erlang-tags](https://github.com/vim-erlang/vim-erlang-tags) - Generate Vim tags for Erlang files
@@ -501,6 +501,7 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [RoadRunnr/ezmq](https://github.com/RoadRunnr/ezmq) - zMQ implemented in Erlang
 * [jkvor/dynamic_compile](https://github.com/jkvor/dynamic_compile) - compile and load erlang modules from string input
 * [dmitryme/erlang_localtime](https://github.com/dmitryme/erlang_localtime) - Erlang library for conversion from one local time to another
+* [benoitc/livery](https://github.com/benoitc/livery) - High-performance HTTP/1.1, HTTP/2, HTTP/3 server for Erlang/OTP 27+
 * [archaelus/edump](https://github.com/archaelus/edump) - Erlang Crashdump Analysis Suite
 * [vim-erlang/vim-erlang-compiler](https://github.com/vim-erlang/vim-erlang-compiler) - Erlang syntax checking and compiler plugin for Vim
 * [jeanparpaillon/erlang-dbus](https://github.com/jeanparpaillon/erlang-dbus) - Erlang DBUS implementation (forked from unmaintained erlang-dbus)
@@ -513,16 +514,17 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [processone/fast_yaml](https://github.com/processone/fast_yaml) - Fast YAML native library for Erlang / Elixir
 * [lfe/rebar3](https://github.com/lfe/rebar3) - A modern rebar3 plugin for LFE projects
 * [erlnets/nkdist](https://github.com/erlnets/nkdist) - Erlang distributed registration and load balancing
-* [chef/concrete](https://github.com/chef/concrete) - Concrete enhances your rebar based Erlang project by providing a common Makefile wrapper, a dialyzer make target that caches PLT analysis of your project's dependencies, and a mechanism to specify development only dependencies.
+* [chef-boneyard/concrete](https://github.com/chef-boneyard/concrete) - Concrete enhances your rebar based Erlang project by providing a common Makefile wrapper, a dialyzer make target that caches PLT analysis of your project's dependencies, and a mechanism to specify development only dependencies.
 * [abuibrahim/erlang-amf](https://github.com/abuibrahim/erlang-amf) - Erlang Action Message Format Library
 * [Supersonido/rebar_mix](https://github.com/Supersonido/rebar_mix) - rebar3 plugin for building Elixir dependencies with mix
+* [shortishly/mdns](https://github.com/shortishly/mdns) - Multicast DNS in Erlang/OTP
 * [proger/active](https://github.com/proger/active) - Active development for Erlang: rebuild and reload source/binary files while the VM is running
 * [maximk/teeterl](https://github.com/maximk/teeterl) - A lean portable Erlang, no BEAM
 * [lk-geimfari/nebula](https://github.com/lk-geimfari/nebula) - Small library for colored (ANSI) output in Erlang/Elixir/LFE. It's can be useful when you need to create user-friendly command-line applications.
 * [lemenkov/rtplib](https://github.com/lemenkov/rtplib) - OUTDATED. Use https://github.com/xirsys/xmedialib instead!!! Erlang library for dealing with rtp/rtcp (STILL IN A VERY EARLY STAGE)
 * [aeternity/enoise](https://github.com/aeternity/enoise) - Erlang implementation of the Noise protocol
 * [x6j8x/erlaws](https://github.com/x6j8x/erlaws) - Erlang Amazon WebServices
-* [shortishly/mdns](https://github.com/shortishly/mdns) - Multicast DNS in Erlang/OTP
+* [shortishly/pgmp](https://github.com/shortishly/pgmp) - Erlang/OTP 25+ PostgreSQL client
 * [richcarl/eunit](https://github.com/richcarl/eunit) - The EUnit lightweight unit testing framework for Erlang - this is the canonical development repository.
 * [rabbitmq/aten](https://github.com/rabbitmq/aten) - An adaptive accrual node failure detection library for Elixir and Erlang
 * [processone/rtb](https://github.com/processone/rtb) - Benchmarking tool to stress real-time protocols
@@ -530,7 +532,6 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [epappas/erl_streams](https://github.com/epappas/erl_streams) - Streams in Erlang
 * [b0oh/lol](https://github.com/b0oh/lol) - Lol — Lisp on erLang, and programming is fun again
 * [siberian-fast-food/alogger](https://github.com/siberian-fast-food/alogger) - Simply the best logging framework for Erlang
-* [shortishly/pgmp](https://github.com/shortishly/pgmp) - Erlang/OTP 25+ PostgreSQL client
 * [kevsmith/herml](https://github.com/kevsmith/herml) - Erlang port of Haml
 * [jchris/erlang-json-eep-parser](https://github.com/jchris/erlang-json-eep-parser) - A collection of leex and yecc definitions, along with tests
 * [inaka/xref_runner](https://github.com/inaka/xref_runner) - Erlang Xref Runner (inspired in rebar xref)
@@ -543,6 +544,7 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [raycmorgan/erl-lua](https://github.com/raycmorgan/erl-lua) - An Erlang linked-in driver that allows embedding Lua into the Erlang VM
 * [rabbitmq/gen-batch-server](https://github.com/rabbitmq/gen-batch-server) - A generic batching server for Erlang and Elixir
 * [klarna-incubator/glass](https://github.com/klarna-incubator/glass) - A semantic search tool for Erlang that supports large code-bases.
+* [filippo/sgte](https://github.com/filippo/sgte) - A simple Erlang Template Engine
 * [etnt/eopenid](https://github.com/etnt/eopenid) - Erlang consumer library for OpenID
 * [bet365/erpc](https://github.com/bet365/erpc) - An alternative RPC implementation for Erlang.
 * [basho/riak-erlang-http-client](https://github.com/basho/riak-erlang-http-client) - Riak Erlang client using the HTTP interface
@@ -555,7 +557,6 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [jkvor/erlmc](https://github.com/jkvor/erlmc) - Erlang memcached binary protocol client
 * [jimmyrcom/HTML5-Canvas-Old-School-RPG-Map-with-Erlang-Websockets-Chat](https://github.com/jimmyrcom/HTML5-Canvas-Old-School-RPG-Map-with-Erlang-Websockets-Chat) - You can make MMOs now using html thanks to google. See the link for what it does. The client is pure HTML5, the server here is erlang.
 * [g-andrade/backwater](https://github.com/g-andrade/backwater) - Intercluster RPC for Erlang and Elixir
-* [filippo/sgte](https://github.com/filippo/sgte) - A simple Erlang Template Engine
 * [farhadi/cuckoo_filter](https://github.com/farhadi/cuckoo_filter) - High-performance, concurrent, and mutable Cuckoo Filter for Erlang and Elixir
 * [dweldon/riakpool](https://github.com/dweldon/riakpool) - erlang riak client pool
 * [tonyrog/can](https://github.com/tonyrog/can) - CAN driver and router
@@ -567,17 +568,17 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [klarna/bec](https://github.com/klarna/bec) - The BitBucket Erlang Client
 * [gossiperl/gossiperl](https://github.com/gossiperl/gossiperl) - Gossip middleware in Erlang
 * [geocar/inet_ssh_dist](https://github.com/geocar/inet_ssh_dist) - SSH distribution for erlang
+* [G-Corp/jwerl](https://github.com/G-Corp/jwerl) - [MIRROR] Erlang JWT Library
 * [ErlyORM/aleppo](https://github.com/ErlyORM/aleppo) - Alternative Erlang Pre-Processor
 * [ddossot/jerg](https://github.com/ddossot/jerg) - JSON Schema to Erlang Records Generator
 * [danmacklin/erlang_cep](https://github.com/danmacklin/erlang_cep) - A basic CEP package written in erlang
 * [clonejo/mc-erl](https://github.com/clonejo/mc-erl) - mc-erl is a server for Minecraft 1.4.7 written in Erlang.
-* [benoitc/livery](https://github.com/benoitc/livery) - High-performance HTTP/1.1, HTTP/2, HTTP/3 server for Erlang/OTP 27+
+* [careo/rabbitmq-erlang-client-examples](https://github.com/careo/rabbitmq-erlang-client-examples) - Ports of some examples in tmm1's amqp library to use the rabbitmq erlang client.
 * [OtoloNetworks/rebar3_osv](https://github.com/OtoloNetworks/rebar3_osv) - Turn an Erlang/OTP application into a Unikernel image
 * [mpitid/purity](https://github.com/mpitid/purity) - A side-effect analyzer for Erlang
+* [matheuscamarques/pon_beam](https://github.com/matheuscamarques/pon_beam) - PON-BEAM is a complete re-architecture of the Erlang/OTP Virtual Machine (ERTS — Erlang Run-Time System) using the Notification-Oriented Paradigm (PON)
 * [inaka/erlang-github](https://github.com/inaka/erlang-github) - Github API client
-* [G-Corp/jwerl](https://github.com/G-Corp/jwerl) - [MIRROR] Erlang JWT Library
 * [CarlWright/NGerlguten](https://github.com/CarlWright/NGerlguten) - Next Generation erlguten -- a PDF generation application in Erlang
-* [careo/rabbitmq-erlang-client-examples](https://github.com/careo/rabbitmq-erlang-client-examples) - Ports of some examples in tmm1's amqp library to use the rabbitmq erlang client.
 * [benoitc/dnssd_erlang](https://github.com/benoitc/dnssd_erlang) - Erlang interface to Apple's Bonjour DNS Service Discovery implementation
 * [artplant/vprof](https://github.com/artplant/vprof) - Visual Erlang profiler
 * [anycable/erlycable](https://github.com/anycable/erlycable) - Anycable Erlang WebSocket server
@@ -585,6 +586,7 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [achlysproject/achlys](https://github.com/achlysproject/achlys) - Erlang framework for building applications with Lasp on GRiSP
 * [VoltDB/voltdb-client-erlang](https://github.com/VoltDB/voltdb-client-erlang) - VoltDB Erlang Client Driver
 * [virtan/simple_oauth2](https://github.com/virtan/simple_oauth2) - Simple erlang OAuth2 client module for any http server framework (Google, Facebook, Yandex, Vkontakte are preconfigured)
+* [stritzinger/braid](https://github.com/stritzinger/braid) - Erlang library to create and connect an arbitrary cluster of nodes
 * [sile/hash_ring](https://github.com/sile/hash_ring) - Implements consistent hashing in Erlang
 * [sigscale/radierl](https://github.com/sigscale/radierl) - RADIUS protocol stack for Erlang.
 * [saleyn/util](https://github.com/saleyn/util) - Erlang utility modules
@@ -601,7 +603,6 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [archaelus/eshellcode](https://github.com/archaelus/eshellcode) - Erlang Shellcode snippets
 * [zhongwencool/eetcd](https://github.com/zhongwencool/eetcd) - Erlang client for the etcd API v3
 * [ttyerl/sqlite-erlang](https://github.com/ttyerl/sqlite-erlang) - Sqlite gen_server port for Erlang. Creates, reads and writes to sqlite database.
-* [stritzinger/braid](https://github.com/stritzinger/braid) - Erlang library to create and connect an arbitrary cluster of nodes
 * [rvirding/spell1](https://github.com/rvirding/spell1) - LL(1) parser generator for Erlang and LFE
 * [project-fifo/rebar3_lint](https://github.com/project-fifo/rebar3_lint) - Erlang linter - rebar3 plugin
 * [michaelnisi/feeder](https://github.com/michaelnisi/feeder) - Parse RSS and Atom feeds
@@ -642,7 +643,6 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [psyeugenic/eplot](https://github.com/psyeugenic/eplot) - A plot engine written in erlang.
 * [maxlapshin/gitty](https://github.com/maxlapshin/gitty) - Git access in erlang
 * [machinezone/mzmetrics](https://github.com/machinezone/mzmetrics) - High performance Erlang metrics library
-* [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk) - LaunchDarkly Server-Side SDK for Erlang/Elixir
 * [jkvor/log_roller](https://github.com/jkvor/log_roller) - A pub/sub modeled, distributed Erlang logging system
 * [ieQu1/typerefl](https://github.com/ieQu1/typerefl) - Use Erlang typespecs in the runtime
 * [gleber/exat](https://github.com/gleber/exat) - eXAT - The erlang eXperimental Agent Tool
@@ -656,6 +656,7 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [otpcl/otpcl](https://github.com/otpcl/otpcl) - Open Telecom Platform Command Language a.k.a. Tcl-Flavored Erlang
 * [nomasystems/erf](https://github.com/nomasystems/erf) - :pencil: A design-first Erlang REST Framework.
 * [ndpar/erlang](https://github.com/ndpar/erlang) - My Erlang/OTP library
+* [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk) - LaunchDarkly Server-Side SDK for Erlang/Elixir
 * [klajo/mockgyver](https://github.com/klajo/mockgyver) - A mocking library for Erlang
 * [joedevivo/hpack](https://github.com/joedevivo/hpack) - HPACK Implementation for Erlang
 * [jj1bdx/sshrpc](https://github.com/jj1bdx/sshrpc) - Erlang SSH RPC module (experimental)
@@ -707,8 +708,10 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [beam-telemetry/telemetry_registry](https://github.com/beam-telemetry/telemetry_registry) - A library for declaration and discovery of telemetry events
 * [apache/couchdb-mango](https://github.com/apache/couchdb-mango) - Mirror of Apache CouchDB Mango
 * [Yongke/shadowsocks-erlang](https://github.com/Yongke/shadowsocks-erlang) - Totally asynchronous implementation of Shadowsocks in Erlang
+* [widgrensit/asobi](https://github.com/widgrensit/asobi) - Game backend platform built on Nova/OTP
 * [whitenode/riak_mapreduce_utils](https://github.com/whitenode/riak_mapreduce_utils) - Library containing map/reduce utility functions for Riak implemented in erlang.
 * [tonyg/erlang-smtp](https://github.com/tonyg/erlang-smtp) - Erlang SMTP and POP3 server code. -- MOVED TO: https://git.leastfixedpoint.com/tonyg/erlang-smtp
+* [systemd/ejournald](https://github.com/systemd/ejournald) - A Erlang binding to the systemd journal C API
 * [stolen/autohelp](https://github.com/stolen/autohelp) - Parse_transform for erlang which adds functions help/{0,1,2} showing edoc information about module and exported functions.
 * [psyeugenic/fgraph](https://github.com/psyeugenic/fgraph) - Physics engine for graph drawing written in erlang for use in wxErlang or standalone.
 * [odo/revolver](https://github.com/odo/revolver) - round-robin load balancer for Erlang processes
@@ -726,15 +729,14 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [huffman/twilio_erlang](https://github.com/huffman/twilio_erlang) - An Erlang library for communicating with the Twilio API and generating TwiML
 * [heroku/ehmon](https://github.com/heroku/ehmon) - Heroku Erlang VM Monitoring library
 * [erldb/erldb](https://github.com/erldb/erldb) - ORM implementation in Erlang
+* [engineyard/vertebra-erl](https://github.com/engineyard/vertebra-erl) - Vertebra Erlang Pieces
 * [dlesl/erqwest](https://github.com/dlesl/erqwest) - An experimental erlang HTTP client wrapping reqwest
 * [dkataskin/erlazure](https://github.com/dkataskin/erlazure) - Windows Azure Erlang bindings
 * [coreyhaines/handbook-of-neuroevolution](https://github.com/coreyhaines/handbook-of-neuroevolution) - Code samples from the Handbook of Neuroevolution through Erlang in both Erlang and Elixir
-* [andelf/erlang-proxy](https://github.com/andelf/erlang-proxy) - socks4, socks4a, socks5 proxy, encrypted, derived from yueyoum/make-proxy. Across the Great Wall we can reach every corner in the world.
 * [aaronps/enotepad](https://github.com/aaronps/enotepad) - Clone of MS Notepad using Erlang (wxWidgets)
 * [ztmr/egtm](https://github.com/ztmr/egtm) - IDEA EGTM: Erlang binding for GT.M database engine
 * [TypedLambda/eresye](https://github.com/TypedLambda/eresye) - This is a clone of the Sourceforge project repository of the same name. ERESYE means ERlang Expert SYstem Engine. It is a library to write expert systems and rule processing engines using the Erlang programming language. It allows to create multiple engines, each one with its own facts and rules to be processed.
 * [TTalkPro/beamai](https://github.com/TTalkPro/beamai) - 使用Erlang开发的，Agentic AI工具集合
-* [systemd/ejournald](https://github.com/systemd/ejournald) - A Erlang binding to the systemd journal C API
 * [seriyps/eplaypen](https://github.com/seriyps/eplaypen) - Erlang web playground http://tryerl.seriyps.ru/
 * [sasa1977/fun_chain](https://github.com/sasa1977/fun_chain) - Function chaining in Erlang
 * [rkallos/wrek](https://github.com/rkallos/wrek) - A little Erlang library for executing task dependency graphs
@@ -747,8 +749,9 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [kafka4beam/wolff](https://github.com/kafka4beam/wolff) - Resilient Kafka Producer for Erlang/Elixir
 * [jelly-beam/verl](https://github.com/jelly-beam/verl) - SemVer 2.0  parsing, matching, and comparisons for Erlang
 * [erlymon/erlymon](https://github.com/erlymon/erlymon) - Open Source GPS Tracking System
-* [engineyard/vertebra-erl](https://github.com/engineyard/vertebra-erl) - Vertebra Erlang Pieces
+* [dolotech/erlang_server](https://github.com/dolotech/erlang_server) - 卡牌游戏《萌兽堂》完整服务器erlang源码
 * [apache/couchdb-erlfdb](https://github.com/apache/couchdb-erlfdb) - Erlang API for FoundationDB
+* [andelf/erlang-proxy](https://github.com/andelf/erlang-proxy) - socks4, socks4a, socks5 proxy, encrypted, derived from yueyoum/make-proxy. Across the Great Wall we can reach every corner in the world.
 * [afronski/wolves-and-rabbits-world-simulation](https://github.com/afronski/wolves-and-rabbits-world-simulation) - :rabbit: :wolf: World simulation of Wolves, Rabbits and Carrots in Erlang.
 * [aberman/pooly](https://github.com/aberman/pooly) - Erlang OTP Process Pool
 * [tolbrino/hut](https://github.com/tolbrino/hut) - helper library for making Erlang libraries logging framework agnostic
@@ -757,7 +760,6 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [okeuday/erlang_term](https://github.com/okeuday/erlang_term) - Erlang Term Info
 * [noss/pgsql](https://github.com/noss/pgsql) - Erlang postgresql driver
 * [msantos/ewpcap](https://github.com/msantos/ewpcap) - Portable native Erlang raw socket interface using pcap
-* [msantos/emdns](https://github.com/msantos/emdns) - Erlang multicast DNS and DNS-SD (DNS Service Discovery)
 * [massung/parsec](https://github.com/massung/parsec) - Parsec-style parsing for Erlang
 * [loguntsov/reliable_udp](https://github.com/loguntsov/reliable_udp) - Reliable protocol over UDP for Erlang
 * [ivanos/erl_sshd](https://github.com/ivanos/erl_sshd) - Wrapper around Erlang ssh module to make it easier to add an sshd to any node
@@ -767,7 +769,6 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [erlware/erlang-camp](https://github.com/erlware/erlang-camp) - Code for the ErlangCamp teaching conference
 * [eriksoe/ErlangQuest](https://github.com/eriksoe/ErlangQuest) - Learn Erlang through this set of challenges. An interactive system for getting to know Erlang.
 * [drfloob/ezic](https://github.com/drfloob/ezic) - a set of erlang utilities for the Olson timezone database files
-* [dolotech/erlang_server](https://github.com/dolotech/erlang_server) - 卡牌游戏《萌兽堂》完整服务器erlang源码
 * [devinus/fresh](https://github.com/devinus/fresh) - The freshest Erlang web framework
 * [tmaciejewski/see](https://github.com/tmaciejewski/see) - Search Engine in Erlang
 * [stolen/webdist](https://github.com/stolen/webdist) - Erlang distribution as HTTP protocol upgrade
@@ -775,6 +776,7 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [simonstl/introducing-erlang-2nd](https://github.com/simonstl/introducing-erlang-2nd) - Code samples from Introducing Erlang, second edition
 * [renatoaguiar/erlang-openflow](https://github.com/renatoaguiar/erlang-openflow) - An OpenFlow controller written in pure erlang
 * [proger/erlfsmon](https://github.com/proger/erlfsmon) - Erlang filesystem event watcher frontend for fswatch
+* [msantos/emdns](https://github.com/msantos/emdns) - Erlang multicast DNS and DNS-SD (DNS Service Discovery)
 * [mdevilliers/erlang-mesos](https://github.com/mdevilliers/erlang-mesos) - An erlang binding for mesos - http://mesos.apache.org/
 * [Licenser/ecrdt](https://github.com/Licenser/ecrdt) - experimenting with CRDTs in erlang
 * [klarna/leveldb_manager](https://github.com/klarna/leveldb_manager) - Small service for snapshotting eleveldb without stopping the Erlang node
@@ -782,6 +784,7 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [killme2008/erlwsh](https://github.com/killme2008/erlwsh) - Erlang web shell--program erlang on web
 * [kenpratt/erlbrake](https://github.com/kenpratt/erlbrake) - Erlang Airbrake notification client
 * [inaka/katana-test](https://github.com/inaka/katana-test) - Meta Testing Utilities for common_test
+* [esl/cets](https://github.com/esl/cets) - A library to synchronise records from the ETS tables between nodes
 * [cstar/erls3](https://github.com/cstar/erls3) - Erlang/OTP application for accessing Amazon S3
 * [carlosgaldino/concha](https://github.com/carlosgaldino/concha) - A consistent hashing library in Erlang.
 * [b3rnie/crontab](https://github.com/b3rnie/crontab) - crontab for Erlang
@@ -795,7 +798,6 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [josephwecker/epgsql_pool](https://github.com/josephwecker/epgsql_pool) - Fork of Will Glozer's erlang postgresql pool server, so it can be maintained and polished.
 * [hachreak/minidb](https://github.com/hachreak/minidb) - A minimal in-memory distributed master-less document database
 * [g-andrade/maestro](https://github.com/g-andrade/maestro) - An Erlang pool of pools.
-* [esl/cets](https://github.com/esl/cets) - A library to synchronise records from the ETS tables between nodes
 * [EchoTeam/mavg](https://github.com/EchoTeam/mavg) - Erlang :: Exponential moving average library
 * [djui/eraft](https://github.com/djui/eraft) - Raft reference implementation for Erlang
 * [zuiderkwast/erlang_abstract_format](https://github.com/zuiderkwast/erlang_abstract_format) - Documentation of Erlang Abstract Format
@@ -815,11 +817,13 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [marianoguerra/jwt-erl](https://github.com/marianoguerra/jwt-erl) - JSON Web Token implementation in Erlang
 * [lwes/lwes-erlang](https://github.com/lwes/lwes-erlang) - Light Weight Event System Erlang library
 * [lehoff/egol](https://github.com/lehoff/egol) - Erlang implementation of Conway's Game of Life
+* [kzemek/macaroons](https://github.com/kzemek/macaroons) - An Erlang Macaroons library compatible with libmacaroons
 * [klajo/wpi](https://github.com/klajo/wpi) - An Erlang NIF for the WiringPi library for the Raspberry Pi
 * [jonasrichard/ejson](https://github.com/jonasrichard/ejson) - JSON library for Erlang on top of jsx
 * [gearnode/erl-hotp](https://github.com/gearnode/erl-hotp) - HOTP and TOTP algorithms in Erlang.
 * [emqx/ecpool](https://github.com/emqx/ecpool) - Erlang Connection/Client Pool Library
 * [dustin/erl-conc](https://github.com/dustin/erl-conc) - Concurrent Lists in Erlang
+* [dnsimple/dnstest](https://github.com/dnsimple/dnstest) - Erlang app for testing authoritative DNS servers for compliance.
 * [barrel-attic/erlang-lru](https://github.com/barrel-attic/erlang-lru) - a fixed size LRU cache.
 * [aws-beam/aws_credentials](https://github.com/aws-beam/aws_credentials) - An Erlang library to provide AWS credentials
 * [aeternity/app_ctrl](https://github.com/aeternity/app_ctrl) - Alternative application controller for Erlang/OTP
@@ -828,7 +832,6 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [seniverse/kube_dist](https://github.com/seniverse/kube_dist) - Erlang Distribution inside Kubernetes Cluster
 * [marianoguerra/interfix](https://github.com/marianoguerra/interfix) - an experimental programming language for the erlang vm that is actually useful
 * [lindenbaum/eipmi](https://github.com/lindenbaum/eipmi) - A native Erlang IPMI library.
-* [kzemek/macaroons](https://github.com/kzemek/macaroons) - An Erlang Macaroons library compatible with libmacaroons
 * [henry-hz/erlang-trader](https://github.com/henry-hz/erlang-trader) - Porting the AlgoTrader (Java) code to Erlang  [Abandoned]
 * [gossiperl/erflux](https://github.com/gossiperl/erflux) - InfluxDB client for Erlang
 * [fogfish/serverless](https://github.com/fogfish/serverless) - Serverless Erlang runtime for AWS Lambda Service
@@ -836,7 +839,6 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [egobrain/erlang_decorators](https://github.com/egobrain/erlang_decorators) - This code implenets decorators for erlang.
 * [egobrain/decimal](https://github.com/egobrain/decimal) - An Erlang decimal arithmetic library.
 * [dronowar/erlang_rest_api](https://github.com/dronowar/erlang_rest_api) - Simple example Erlang REST API
-* [dnsimple/dnstest](https://github.com/dnsimple/dnstest) - Erlang app for testing authoritative DNS servers for compliance.
 * [cmoid/erlbutt](https://github.com/cmoid/erlbutt) - erlang prototype of scuttlebutt protocol
 * [chef/mini_s3](https://github.com/chef/mini_s3) - Minimal AWS S3 client for Erlang
 * [Bluehouse-Technology/grpc_client](https://github.com/Bluehouse-Technology/grpc_client) - Erlang Client library for gRPC
@@ -862,7 +864,6 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [irr/erl-tutorials](https://github.com/irr/erl-tutorials) - Erlang/OTP sample projects
 * [hypernumbers/erlang-wtd](https://github.com/hypernumbers/erlang-wtd) - Creating a mutant army of self-discovering Raspberry Pi Erlang robots for world domination or something...
 * [habibutsu/erlz](https://github.com/habibutsu/erlz) - Set of helpers functions for more convenient functional programming in Erlang
-* [graphql-erlang/graphql](https://github.com/graphql-erlang/graphql) - Erlang GraphQL implementation
 * [flambard/enet](https://github.com/flambard/enet) - ENet implementation in Erlang/OTP
 * [erszcz/pa](https://github.com/erszcz/pa) - Partial application of Erlang functions
 * [dong50252409/behavior3erl](https://github.com/dong50252409/behavior3erl) - Behavior3 runtime library for Erlang (Behavior Trees for Erlang)
@@ -874,7 +875,6 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [antoniogarrote/egearmand-server](https://github.com/antoniogarrote/egearmand-server) - erlang implementation of gearman server
 * [squaremo/erlmqtt](https://github.com/squaremo/erlmqtt) - MQTT library for Erlang *JUST USABLE*
 * [sebastiw/otc](https://github.com/sebastiw/otc) - Erlang/OTC
-* [saltysystems/overworld](https://github.com/saltysystems/overworld) - Open source framework for scalable multiplayer games.
 * [robertoaloi/ansible-nodetool](https://github.com/robertoaloi/ansible-nodetool) - An Ansible module to interact with Erlang nodes via Erlang RPC
 * [richcarl/file_monitor](https://github.com/richcarl/file_monitor) - Erlang file monitoring service
 * [ostrovok-tech/ejsonpath](https://github.com/ostrovok-tech/ejsonpath) - JSONPath Erlang implementation
@@ -882,19 +882,22 @@ A curated list of awesome Erlang frameworks, libraries and software.
 * [mccoy/medici](https://github.com/mccoy/medici) - Erlang interface for Tokyo Tyrant
 * [mattsta/stripe-erlang](https://github.com/mattsta/stripe-erlang) - Erlang interface to the stripe.com API
 * [lucaspiller/twerl](https://github.com/lucaspiller/twerl) - Erlang client for the Twitter Streaming API
-* [klarna/kastle](https://github.com/klarna/kastle) - Kafka REST proxy
 * [katja-beam/katja](https://github.com/katja-beam/katja) - A simple Riemann client written in Erlang.
 * [jkvor/erlang_syslog](https://github.com/jkvor/erlang_syslog) - Erlang syslog logger
 * [jixiuf/helloerlang](https://github.com/jixiuf/helloerlang) - my   repos for erlang test code .
 * [hpyhacking/webtekcos](https://github.com/hpyhacking/webtekcos) - a websocket server in erlang
 * [hiroeorz/arduino-erlang](https://github.com/hiroeorz/arduino-erlang) - Arduino handler for Erlang/OTP Application.
 * [hamidreza-s/Queuesk](https://github.com/hamidreza-s/Queuesk) - Priority Task Queue for Erlang
+* [graphql-erlang/graphql](https://github.com/graphql-erlang/graphql) - Erlang GraphQL implementation
 * [esl/segmented_cache](https://github.com/esl/segmented_cache) - Modern, performant, and extensible, Erlang in-memory cache
 * [devinus/zucchini](https://github.com/devinus/zucchini) - An Erlang INI parser
 * [ddossot/cferl](https://github.com/ddossot/cferl) - Rackspace / Open Stack Cloud Files Erlang Client
 * [bokner/gen_client](https://github.com/bokner/gen_client) - Generic XMPP client framework for Erlang
 * [baryluk/ex11](https://github.com/baryluk/ex11) - Joe Armstrong implementation of X11 protocol for Erlang
 * [apauley/sudoku-in-erlang](https://github.com/apauley/sudoku-in-erlang) - An implementation of Norvig's sudoku solver in Erlang
+* [chef/concrete](https://github.com/chef/concrete) - Concrete enhances your rebar based Erlang project by providing a common Makefile wrapper, a dialyzer make target that caches PLT analysis of your project's dependencies, and a mechanism to specify development only dependencies.
+* [saltysystems/overworld](https://github.com/saltysystems/overworld) - Open source framework for scalable multiplayer games.
+* [klarna/kastle](https://github.com/klarna/kastle) - Kafka REST proxy
 * [barrel-platform/erlang-lru](https://github.com/barrel-platform/erlang-lru) - a fixed size LRU cache.
 * [williamthome/euneus](https://github.com/williamthome/euneus) - An incredibly flexible and performant JSON parser, generator and formatter in pure Erlang.
 * [jinganix/enif_protobuf](https://github.com/jinganix/enif_protobuf) - A Google Protobuf implementation with enif (Erlang nif)
